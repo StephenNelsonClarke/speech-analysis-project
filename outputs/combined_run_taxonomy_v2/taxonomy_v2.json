@@ -1,0 +1,200 @@
+{
+  "version": "v2",
+  "removed": [
+    "fiscal_policy_public_finances",
+    "monetary_policy_rates"
+  ],
+  "themes": {
+    "inflation_and_prices": {
+      "label": "Inflation & prices",
+      "keywords": [
+        "inflation",
+        "price inflation",
+        "cpi",
+        "rpi",
+        "consumer prices",
+        "food prices",
+        "energy prices",
+        "gas prices",
+        "goods prices",
+        "prices",
+        "cost of living",
+        "inflation target",
+        "inflation outlook",
+        "real incomes",
+        "price stability"
+      ]
+    },
+    "conventional_monetary_policy": {
+      "label": "Conventional monetary policy",
+      "keywords": [
+        "monetary policy",
+        "bank rate",
+        "interest rates",
+        "rate path",
+        "policy rate",
+        "rate rises",
+        "rate cuts",
+        "monetary tightening",
+        "monetary easing",
+        "policy tightening",
+        "policy easing",
+        "real rates",
+        "policy stance",
+        "short-term rates",
+        "long-term rates"
+      ]
+    },
+    "unconventional_monetary_policy": {
+      "label": "Unconventional monetary policy",
+      "keywords": [
+        "quantitative easing",
+        "quantitative tightening",
+        "qe",
+        "qt",
+        "asset purchases",
+        "asset purchase",
+        "apf",
+        "gilt purchases",
+        "gilt sales",
+        "asset sales",
+        "yield curve control",
+        "central bank balance sheet",
+        "balance sheet reduction",
+        "unconventional monetary policy",
+        "unconventional policy",
+        "forward guidance",
+        "funding for lending",
+        "fls",
+        "term funding scheme",
+        "tfs",
+        "tfsme",
+        "lower bound",
+        "negative interest rates",
+        "negative rates"
+      ]
+    },
+    "growth_output": {
+      "label": "Growth & output",
+      "keywords": [
+        "growth",
+        "gdp",
+        "economic activity",
+        "output gap",
+        "output",
+        "recession",
+        "business investment",
+        "domestic demand",
+        "economic growth",
+        "household spending",
+        "gross domestic product",
+        "investment",
+        "activity"
+      ]
+    },
+    "labour_market": {
+      "label": "Labour market",
+      "keywords": [
+        "labour market",
+        "labour force",
+        "employment",
+        "unemployment",
+        "wages",
+        "earnings",
+        "vacancies",
+        "job market",
+        "hours worked",
+        "workforce",
+        "economic inactivity",
+        "participation rate",
+        "productivity"
+      ]
+    },
+    "financial_conditions": {
+      "label": "Financial conditions",
+      "keywords": [
+        "financial conditions",
+        "credit spreads",
+        "bond yields",
+        "mortgage rates",
+        "bank lending",
+        "credit conditions",
+        "market pricing",
+        "term premia",
+        "asset prices",
+        "house prices",
+        "equity prices",
+        "borrowing costs"
+      ]
+    },
+    "global_economy_trade": {
+      "label": "Global economy & trade",
+      "keywords": [
+        "global economy",
+        "international economy",
+        "trade",
+        "global demand",
+        "supply chains",
+        "world economy",
+        "euro area",
+        "us economy",
+        "imports",
+        "exports",
+        "geopolitics",
+        "commodity prices",
+        "global inflation"
+      ]
+    },
+    "financial_stability_regulation": {
+      "label": "Financial stability & regulation",
+      "keywords": [
+        "financial stability",
+        "banking system",
+        "liquidity",
+        "capital",
+        "leverage",
+        "stress tests",
+        "supervision",
+        "regulation",
+        "resilience",
+        "systemic risk",
+        "credit risk",
+        "bank balance sheets",
+        "non bank"
+      ]
+    },
+    "climate_sustainability": {
+      "label": "Climate & sustainability",
+      "keywords": [
+        "climate change",
+        "climate risk",
+        "net zero",
+        "transition",
+        "green investment",
+        "sustainability",
+        "environmental risk",
+        "climate policy",
+        "carbon"
+      ]
+    },
+    "uncertainty_forecasting": {
+      "label": "Uncertainty & forecasting",
+      "keywords": [
+        "uncertainty",
+        "risk",
+        "forecast",
+        "forecasts",
+        "judgement",
+        "scenario",
+        "data",
+        "models",
+        "model uncertainty",
+        "signals",
+        "outlook",
+        "evidence",
+        "rebalancing",
+        "key risks"
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SpeechThemeClassificationV2",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "primary_theme",
+    "secondary_themes",
+    "confidence",
+    "evidence_excerpt",
+    "rationale"
+  ],
+  "properties": {
+    "primary_theme": {
+      "type": "string",
+      "enum": [
+        "inflation_and_prices",
+        "conventional_monetary_policy",
+        "unconventional_monetary_policy",
+        "growth_output",
+        "labour_market",
+        "financial_conditions",
+        "global_economy_trade",
+        "financial_stability_regulation",
+        "climate_sustainability",
+        "uncertainty_forecasting"
+      ]
+    },
+    "secondary_themes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "inflation_and_prices",
+          "conventional_monetary_policy",
+          "unconventional_monetary_policy",
+          "growth_output",
+          "labour_market",
+          "financial_conditions",
+          "global_economy_trade",
+          "financial_stability_regulation",
+          "climate_sustainability",
+          "uncertainty_forecasting"
+        ]
+      },
+      "minItems": 0,
+      "maxItems": 3,
+      "uniqueItems": true
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+    "evidence_excerpt": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 1000
+    },
+    "rationale": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 2000
+    }
+  }
+}

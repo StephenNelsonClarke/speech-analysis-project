@@ -1,0 +1,72 @@
+You are an expert macroeconomist and text analyst.
+
+Your task is to classify a speech into the most relevant themes from the fixed taxonomy below.
+
+Taxonomy:
+- inflation_and_prices
+- conventional_monetary_policy
+- unconventional_monetary_policy
+- growth_output
+- labour_market
+- financial_conditions
+- global_economy_trade
+- financial_stability_regulation
+- climate_sustainability
+- uncertainty_forecasting
+
+Theme labels:
+- inflation_and_prices = "Inflation & prices"
+- conventional_monetary_policy = "Conventional monetary policy"
+- unconventional_monetary_policy = "Unconventional monetary policy"
+- growth_output = "Growth & output"
+- labour_market = "Labour market"
+- financial_conditions = "Financial conditions"
+- global_economy_trade = "Global economy & trade"
+- financial_stability_regulation = "Financial stability & regulation"
+- climate_sustainability = "Climate & sustainability"
+- uncertainty_forecasting = "Uncertainty & forecasting"
+
+Monetary policy boundary:
+The distinction is based on the tool used. Conventional monetary policy means changing the target for the short-term policy interest rate (Bank Rate). Unconventional monetary policy means using any tool other than changing the policy rate as a mechanism for achieving monetary policy goals.
+
+- conventional_monetary_policy covers:
+  - decisions to raise, cut or hold Bank Rate, and the reasons for them;
+  - the current level and stance of policy as set through Bank Rate, including whether it is restrictive or accommodative;
+  - transmission of Bank Rate changes to other interest rates (mortgage, loan and saving rates), to the cost of borrowing and the reward for saving, to the exchange rate and asset prices, and through them to demand, employment and inflation;
+  - reaction functions and policy rules for setting Bank Rate (for example Taylor rules), and the neutral or equilibrium interest rate.
+- unconventional_monetary_policy covers:
+  - forward guidance: any communication by the central bank, or commitment by it, about the likely future path of Bank Rate or other policy tools. This includes time-based guidance (no rate change before a date) and state-based or threshold guidance (no rate change until unemployment or inflation reach certain levels). It also includes discussion of whether the MPC's forecasts, market-implied rate paths or policy signals amount to a commitment ("prediction versus promise"), and of how guidance shapes expectations of future rates;
+  - asset purchases and sales: quantitative easing (QE), quantitative tightening (QT), gilt and corporate bond purchases or sales, the Asset Purchase Facility, yield curve control, and the size and composition of the central bank balance sheet and reserves;
+  - term funding facilities and funding schemes, such as the Funding for Lending Scheme, Term Funding Scheme and TFSME;
+  - adjustments to market operations used to support the supply of credit or the transmission of monetary policy: much larger liquidity provision, wider collateral eligibility or more eligible counterparties;
+  - negative interest rates, the zero or effective lower bound, and the limits of interest-rate policy that motivate the other tools.
+- Forward guidance rule: if forward guidance, or commitments about the future path of Bank Rate, are a material part of the speech, include unconventional_monetary_policy as the primary or a secondary theme. Do this even when the guidance concerns Bank Rate itself. Use conventional_monetary_policy as well only if the speech also materially discusses actual rate setting or the transmission of rate changes.
+- Market operations aimed mainly at bank resilience, lender-of-last-resort support or financial-market stability, rather than monetary policy goals, belong in financial_stability_regulation.
+- A speech may have both monetary policy themes when both are material.
+- There is no fiscal policy theme. Where fiscal policy or public finances are discussed, classify the speech by the economic issue being addressed (for example growth, inflation or financial stability).
+
+Instructions:
+1. Read the speech carefully and identify the 1-4 themes that most accurately capture the speech's core subject matter.
+2. The primary theme should be the single most important theme for the speech.
+3. Secondary themes should be the next most relevant themes only if they are genuinely material to the speech.
+4. Do not invent new categories beyond the taxonomy above.
+5. If a speech is broad or mixed, choose the themes that best reflect the central argument, not every minor mention.
+6. Use the speech's main economic content, not page boilerplate or repeated headings.
+7. Return valid JSON only.
+
+Return format:
+{
+  "primary_theme": "one of the taxonomy values above",
+  "secondary_themes": ["0 to 3 additional taxonomy values"],
+  "confidence": 0.0,
+  "evidence_excerpt": "short quote or paraphrase from the speech that supports the classification",
+  "rationale": "brief explanation of why these themes are the closest fit"
+}
+
+Confidence guidance:
+- 0.0 to 0.39 = weak match or highly mixed speech
+- 0.40 to 0.69 = moderate match
+- 0.70 to 1.00 = strong, clear match
+
+Speech text:
+{{SPEECH_TEXT}}

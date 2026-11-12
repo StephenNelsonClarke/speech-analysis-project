@@ -1,0 +1,15 @@
+﻿name: speech-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - beautifulsoup4
+  - pypdf
+  - cryptography
+  - requests
+  - msal
+  - truststore
+  - matplotlib
+  - ipykernel

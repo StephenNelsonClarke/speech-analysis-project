@@ -1,0 +1,563 @@
+hyperlink,text,title,date,keywords_filtered,keyword_1,score_1,keyword_2,score_2,keyword_3,score_3,keyword_4,score_4,keyword_5,score_5,keyword_6,score_6,keyword_7,score_7,keyword_8,score_8,keyword_9,score_9,keyword_10,score_10,speaker,speaker_source,speech_date,year,mpc_status,mpc_member_type,mpc_service_start,years_on_mpc,completed_years_on_mpc,review_flag,import_page_path,import_text_path,import_text_url,import_text_type,import_review_flag,mpc_role,completed_months_on_mpc,speech_id,speech_title,word_count,primary_theme,primary_theme_label,top_themes,inflation_and_prices_score,conventional_monetary_policy_score,unconventional_monetary_policy_score,growth_output_score,labour_market_score,financial_conditions_score,global_economy_trade_score,financial_stability_regulation_score,climate_sustainability_score,uncertainty_forecasting_score,llm_primary_theme,llm_secondary_themes,llm_confidence,llm_evidence_excerpt,llm_rationale,exclusion_reason
+https://www.bankofengland.co.uk/speech/2016/andy-haldanes-opening-remarks-at-lbs-centre-for-corporate-governance-and-boe-fintech-conference,"FINANCE VERSION ? Andrew G Haldane Joint Bank of England/London Business School Conference on “Is there an industrial revolution in financial services?” March The “FinTech” Phenomenon Index = Chart shows an index of the number of google searches for the term “FinTech”. Selected Recent FinTech Reports • World Economic Forum: – “The Future of Financial Services: How disruptive innovations are reshaping the way financial services are structured, provisioned and consumed” – “The Future of FinTech A Paradigm Shift in Small Business Finance” • Government Office for Science: – “FinTech Futures: The UK as a World Leader in Financial Technologies” • European Central Bank – “Virtual Currency Schemes – a further analysis” • ECUREX with Deutsche Bundesbank – “Digital Currencies: Principles, Trends, Opportunities, and Risks” • Committee on Payments and Market Infrastructure: – “Digital Currencies” • McKinsey: – Annual Global Banking Reviews and • Accenture: – “The Future of Fintech and Banking: Digitally disrupted or reimagined?” • Ernst and Young (commissioned by UK Trade & Investment) – “Landscaping UK Fintech” • BNY Mellon – “Innovation in Payments: The Future is Fintech” The “FinTech” Problem “The most important financial innovation that I have seen the past years is the automatic teller machine.”  Paul Volcker, December New Financial Technologies • Finance is a market in information – information technology should matter! • Distributed/peer-to-peer model – world wide web, second-hand goods, publishing, music, taxis, accommodation etc – massive productivity improvements in cutting out the middle person – reduced trading times, cutting costs, widening access • Big data in this distributed network – pricing/marketing using granular data Cost of Bank IT Systems Total IT spending as % of revenues IT costs as % of revenues for European Banks or gross output Chartered • Commodities – itBit, GFT • Equities - NASDAQ The Existing Architecture of Lending B6 <% B6 loans Non-B6 % Non-B6 loans % % Bonds Asset finance % and ICPFs % Alternative % sources Total stock of bank lending (secured Total stock of debt to businesses and unsecured) to households Sources: ABFA, FLA, Nesta, ONS, Bank of England. Notes: Non",Andy Haldane's opening remarks at FinTech Revolution conference,2016-03-08,"[('fintech phenomenon', 0.7016), ('term fintech', 0.6629), ('fintech', 0.6495), ('finance', 0.6263), ('fintech existing', 0.6236), ('b6 loans', 0.6007), ('bank lending', 0.59), ('loans', 0.5667), ('asset finance', 0.5603), ('finance icpfs', 0.5466)]",fintech phenomenon,0.7016,term fintech,0.6629,fintech,0.6495,finance,0.6263,fintech existing,0.6236,b6 loans,0.6007,bank lending,0.59,loans,0.5667,asset finance,0.5603,finance icpfs,0.5466,Andy Haldane,title,2016-03-08,2016,internal,internal,2014-06-01,1.75,1,,,,,,,Chief Economist,21,url_ae333e8713f868213e9e40a7630aaa0c5bd327f943b32ca769db1d32c95ba36b,Andy Haldane's opening remarks at FinTech Revolution conference,311,growth_output,Growth & output,"[""Growth & output"", ""Uncertainty & forecasting"", ""Labour market""]",0.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,2.0,financial_stability_regulation,financial_conditions; growth_output,0.86,"The speech focuses on the 'FinTech phenomenon', describing finance as 'a market in information' and examining distributed or peer-to-peer models, big data, digital currencies, payments and alternative sources of lending.","The central subject is technological change in the architecture and provision of financial services, including digital currencies, payments, banking and alternative lending, making financial stability and regulation the closest taxonomy fit. Financial conditions is secondary because the speech examines changes in credit provision and the structure of lending. Growth and output is also material through the emphasis on productivity improvements, reduced transaction costs and wider access enabled by new financial technologies.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2018/mark-carney-speech-at-the-public-policy-forum-toronto,"The Future of Work Public Policy Forum, Toronto Mark Carney Governor April First lost decade of real wages since the mid-19th Century year moving average, per cent Forecast -","Slides from Mark Carney's speech at the Public Policy Forum on “Canada Growth Summit 3: Going the Distance”, Toronto",2018-04-13,"[('real wages', 0.5469), ('wages mid', 0.5198), ('wages', 0.5189), ('year moving', 0.4046), ('carney governor', 0.3939), ('lost decade', 0.3804), ('public policy', 0.3763), ('decade real', 0.3701), ('toronto mark', 0.3699), ('governor', 0.3638)]",real wages,0.5469,wages mid,0.5198,wages,0.5189,year moving,0.4046,carney governor,0.3939,lost decade,0.3804,public policy,0.3763,decade real,0.3701,toronto mark,0.3699,governor,0.3638,Mark Carney,title,2018-04-13,2018,internal,internal,2013-07-01,4.75,4,,,,,,,Governor,57,url_48227306a2630a1ef3055d97d762ca9f253f2baf345ab05e885ceeef19338143,"Slides from Mark Carney's speech at the Public Policy Forum on “Canada Growth Summit 3: Going the Distance”, Toronto",29,labour_market,Labour market,"[""Labour market"", ""Uncertainty & forecasting"", ""Inflation & prices""]",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,labour_market,growth_output,0.62,The speech is titled around 'The Future of Work' and highlights a 'lost decade of real wages since the mid-19th Century.',"The available text is very limited, but its focus on the future of work and unusually weak real-wage performance most directly points to labour-market developments. Growth and output is a secondary theme because prolonged real-wage stagnation is closely connected to productivity and broader economic performance.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2018/mark-carney-university-of-toronto-fourth-annual-conference,"AI and the Global Economy Machine Learning and the Market for Intelligence Conference Rotman School of Management, University of Toronto Mark Carney Governor, Bank of England October Potential Macro Impacts of AI Little evidence of technological unemployment over long term Employment population ratio Unemployment rate (per cent) (per cent) 1st IR 2nd IR 3rd IR Employment population ratio Unemployment rate But pickup in real wages lagged productivity during 1st IR Output per worker Real wage (Index: = ) (Index: = ) Output per worker Engels' Pause - Growth in output per worker exceeds real wage growth Real wage","Slides from Mark Carney's speech at the Machine Learning and the Market for Intelligence Conference, University of Toronto",2018-10-23,"[('economy machine', 0.6847), ('global economy', 0.6273), ('ai global', 0.5703), ('impacts ai', 0.5563), ('learning market', 0.5217), ('ai', 0.5141), ('market intelligence', 0.5085), ('macro impacts', 0.484), ('market', 0.4656), ('machine learning', 0.419)]",economy machine,0.6847,global economy,0.6273,ai global,0.5703,impacts ai,0.5563,learning market,0.5217,ai,0.5141,market intelligence,0.5085,macro impacts,0.484,market,0.4656,machine learning,0.419,Mark Carney,title,2018-10-23,2018,internal,internal,2013-07-01,5.25,5,,,,,,,Governor,63,url_edd11781406df3b29c4ede02b6c990119b7e7bf1bf7e5073cf8d13966011f893,"Slides from Mark Carney's speech at the Machine Learning and the Market for Intelligence Conference, University of Toronto",93,labour_market,Labour market,"[""Labour market"", ""Growth & output"", ""Global economy & trade""]",0.0,0.0,0.0,5.0,7.0,0.0,1.0,0.0,0.0,1.0,labour_market,growth_output,0.91,"The speech highlights the potential macro impacts of AI, noting little evidence of technological unemployment over the long term and comparing employment, unemployment, output per worker and real wage growth across industrial revolutions.","The central focus is how AI and technological change may affect employment and unemployment, making the labour market the strongest theme. Growth and output is also material because the speech explicitly examines productivity through output per worker and the historical divergence between productivity and real wage growth.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2019/mark-carney-addressing-the-growing-challenges-in-the-international-monetary-and-financial-system,"Addressing the Growing Challenges in the International Monetary and Financial System Mark Carney Governor of the Bank of England October See also: Asymmetry at heart of IMFS is growing …yet network effects mean US $ dominates US share of global international trade and finance economy shrinking… • US developments have large spillovers, even for countries with limited direct exposure For EMEs, US $ dominance reduces sustainable capital flows % of GDP Number Net private capital flows to EMEs (lhs) Number of EME crises (rhs) - • Capital flow volatility reduces potential growth and increases risk of crises, encouraging EMEs to accumulate costly reserves as insurance A holistic Capital Flows-at-Risk framework: Pull, Push, Pipes Pull factors Domestic institutional frameworks Push factors Determinants of global financial conditions Pipes Structure of the global financial system CAPITAL FLOWS-AT- RISK Reforms to domestic institutional “pull factors” have substantially increased sustainable capital flows Probability density - Asian Financial Crisis A B - - - - Capital flows as a % of GDP Push factors weighed more heavily over the past decade, offsetting some of the improvement in pull factors Probability density - Negative push shock C B - - - - Capital flows as a % of GDP Structure of IMFS could overwhelm EMEs’ efforts to increase sustainable capital flows excluding growth including growth 2030a balance in EME external 2030b balance in EME external sheets sheets - - Pre-crisis baseline ∆Impact FX shareof a higher share of FX-denominated debt in EMs - Flow composition ∆Impact of the shift towards market-based finance Mutualof ∆Impact funds the increasing role of investment funds - Total Total Capital Flows-at-Risk as a % of GDP IMFS asymmetry increases risks of a global liquidity trap • IMFS structurally lowering global equilibrium interest rate, r*, by: - feeding a global savings glut: EMEs defensively accumulate reserves of safe US $ assets against backdrop of inadequate and fragmented global financial safety net; - lowering the rate of global potential growth due to less sustainable cross border flows; and - increasing the downside skew and fattening of the left-hand tail of likely economic outcomes. • Increasingly integrated world: global r* exerts greater influence on domestic r*. • Strains become more evident when – as recently – US conditions warrant tighter policy there than elsewhere. What then can be done? Short term: central banks must play hand they’ve been dealt Inflation (%) UK monetary policy trade-offs in successive -year ahead Inflation Report projections August August Excess demand (%) - - Excess supply (%) Preferred trade-off if λ= Preferred trade-off if λ= • Use full flexibility in flexible inflation targeting Short term: central banks must play hand they’ve been dealt Probability density Tighter macro-prudential stance Average macro-prudential stance B A - - - - Capital flows as a % of GDP • Macroprudential policy in EMEs can reduce Capital Flows-at-Risk Medium term: reshuffle the deck – reform current IMFS Address pull factors in EMEs: EME Reinforcing monetary stability, including by safeguarding central bank independence Ensuring resilience of domestic financial sector Moderate push factors: Strengthen resilience of banks at the core of the global financial system Make sure investment funds prudently manage leverage and liquidity Fix the pipes of the global system: Reinforcing the Global Financial Safety Net, by ensuring that IMF resources are maintained Further improve IMF surveillance for analysing spillovers and traction to support coordinated actions Long term: change the game – move to a multipolar system Benefits of multiple reserve currencies Diversification: the supply of safe assets increases, lowering the downward pressures on the global equilibrium interest rate Reduced spillovers from the core, including less synchronised trade and financial cycles Easier to manage coordination problems No illusions that IMFS can be reformed overnight - Network effects reinforce dominance of US $ - Transition to a new global reserve currency didn’t proceed smoothly in the past and may not in the future - Doesn’t make sense to swap one reserve currency for another; a multipolar world deserves multipolar system Consider for long term: Synthetic Hegemonic Currency • Publicly issued basket of central bank digital currencies made widely available to settle payments and store value  Central bank liabilities are safe, already widely-accepted means of payment  Reliable, instantaneous, low cost domestic and international payments SHC  Addresses many of the shortcomings of private sector solutions (privacy, treasury management, trust)  Decision between wholesale (SDR) vs. retail (SHC) must be mindful that usage as medium of exchange has historically driven reserve currency adoption Addressing the Growing Challenges in the International Monetary and Financial System Mark Carney Governor of the Bank of England October See also:",Addressing the Growing Challenges in the International Monetary and Financial System - slides presented by Mark Carney,2019-10-18,"[('capital flows', 0.5524), ('spillovers countries', 0.5351), ('central bank', 0.5336), ('large spillovers', 0.5275), ('bank liabilities', 0.5219), ('international payments', 0.4993), ('liabilities safe', 0.4962), ('imfs', 0.4773), ('sector solutions', 0.4663), ('private sector', 0.4661)]",capital flows,0.5524,spillovers countries,0.5351,central bank,0.5336,large spillovers,0.5275,bank liabilities,0.5219,international payments,0.4993,liabilities safe,0.4962,imfs,0.4773,sector solutions,0.4663,private sector,0.4661,Mark Carney,title,2019-10-18,2019,internal,internal,2013-07-01,6.25,6,,,,,,,Governor,75,url_e22f4c29f8a1b73ae842aa0c7ea6e704a40886b66e230c671a9ed494c0ec5466,Addressing the Growing Challenges in the International Monetary and Financial System - slides presented by Mark Carney,734,financial_stability_regulation,Financial stability & regulation,"[""Financial stability & regulation"", ""Growth & output"", ""Global economy & trade""]",3.0,1.0,0.0,11.0,0.0,1.0,5.0,17.0,1.0,5.0,global_economy_trade,financial_conditions; financial_stability_regulation; unconventional_monetary_policy,0.96,"The speech argues that US dollar dominance in the international monetary and financial system creates large global spillovers, volatile capital flows and downward pressure on the global equilibrium interest rate, and proposes reforms culminating in a possible multipolar reserve-currency system.","The central subject is the structure and reform of the international monetary and financial system, especially US dollar dominance, cross-border spillovers and sustainable capital flows, making global_economy_trade the clearest primary theme. Financial conditions are material because global financial conditions, capital-flow volatility and the global equilibrium interest rate are core mechanisms. Financial stability and regulation are also substantial through macroprudential policy, bank and investment-fund resilience, and the global financial safety net. Unconventional monetary policy is secondary because the speech materially discusses constraints from a global liquidity trap and proposes a synthetic hegemonic currency based on central bank digital currencies rather than focusing mainly on Bank Rate decisions.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2020/the-health-wealth-and-happiness-of-nations-slides-by-andy-haldane,"The Health, Wealth and Happiness of Nations Andrew G Haldane Centre for Policy Studies Lecture Bloomberg February Adam Smith “It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.” Smith (Wealth of Nations ) Adam Smith “It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.” Smith (Wealth of Nations ) “No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable.” Smith (Wealth of Nations ) “Designing institutions to force (or nudge) entirely self-interested individuals to achieve better outcomes has been the major goal posited by policy analysts for governments to accomplish for much of the past half century. Extensive empirical research leads me to argue that, instead, a core goal of public policy should be to facilitate the development of institutions that bring out the best in humans.” Elinor Ostrom (Nobel Lecture, ) Plan • Enlightenment then • Six Pillars of Success • Enlightenment Now? • The New Pillars of Success  “Community Capitalism” Wealth Wealth Income Real GDP per capita UK wealth per capita £ ( prices) , ( prices) , , , , , , , , , , , , , , Sources: Bank of England Millennium of Data","The health, wealth and happiness of nations - slides by Andy Haldane",2020-02-24,"[('public policy', 0.6001), ('society', 0.5108), ('institutions', 0.4931), ('institutions bring', 0.4922), ('surely flourishing', 0.4867), ('development institutions', 0.485), ('policy', 0.4759), ('flourishing happy', 0.458), ('policy facilitate', 0.4536), ('smith society', 0.4376)]",public policy,0.6001,society,0.5108,institutions,0.4931,institutions bring,0.4922,surely flourishing,0.4867,development institutions,0.485,policy,0.4759,flourishing happy,0.458,policy facilitate,0.4536,smith society,0.4376,Andy Haldane,title,2020-02-24,2020,internal,internal,2014-06-01,5.67,5,,,,,,,Chief Economist,68,url_5d5a2285680a0d677a066fa45aa327117ac41d399a1136b0e35fd7c4f600fe5a,"The health, wealth and happiness of nations - slides by Andy Haldane",212,inflation_and_prices,Inflation & prices,"[""Inflation & prices"", ""Growth & output"", ""Uncertainty & forecasting""]",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,growth_output,,0.9,"The speech centres on the ""Health, Wealth and Happiness of Nations"", contrasting measures such as real GDP and wealth per capita with broader conceptions of whether societies are ""flourishing and happy"".","The central subject is national prosperity and the economic and institutional foundations of broad-based welfare, with GDP, income and wealth forming the main economic frame. The excerpt does not materially discuss inflation, labour markets, monetary policy, financial conditions, financial stability, climate, global trade, or forecasting, so growth_output is the clearest standalone classification.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2021/april/silvana-tenreyro-iies-sns-international-policy-talks,"The Global Outlook, International Trade and Resilience Silvana Tenreyro London School of Economics and External MPC Member, Bank of England *The views are my own and do not represent the views of the Bank of England or the MPC Outline . The Global Outlook  Vaccine‐driven recovery.  But divergence across countries:  In economic outlook  And in virus prevalence, and risks of further lockdown‐related disruption . The Globalization Question  A Protectionist Narrative  “Self‐reliance to build resilience”  But concentration on domestic production can be a riskier strategy . The Global Outlook  IMF and other forecasters have been revising up global GDP growth forecasts. Per cent ‐ ‐ Jan WEO update ‐ Apr WEO ‐","The global outlook, international trade and resilience - slides by Silvana Tenreyro",2021-04-12,"[('trade resilience', 0.5962), ('international trade', 0.5777), ('bank mpc', 0.5355), ('global outlook', 0.4852), ('global', 0.4509), ('resilience written', 0.4453), ('outlook international', 0.4446), ('mpc', 0.4268), ('international', 0.4244), ('resilience', 0.4007)]",trade resilience,0.5962,international trade,0.5777,bank mpc,0.5355,global outlook,0.4852,global,0.4509,resilience written,0.4453,outlook international,0.4446,mpc,0.4268,international,0.4244,resilience,0.4007,Silvana Tenreyro,title,2021-04-12,2021,external,external,2017-07-01,3.75,3,,,,,,,External member,45,url_2c9a62dc944b8067e940fe541d3cacb88a9b9fda56c39dc9bda71a89d2bf4154,"The global outlook, international trade and resilience - slides by Silvana Tenreyro",107,uncertainty_forecasting,Uncertainty & forecasting,"[""Uncertainty & forecasting"", ""Growth & output"", ""Financial stability & regulation""]",0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,5.0,global_economy_trade,growth_output; uncertainty_forecasting,0.96,"The speech focuses on the vaccine-driven global recovery, divergence in countries' economic outlooks and virus risks, and the globalization question, arguing that concentration on domestic production can be a riskier strategy.","Global economy & trade is clearly the central theme because the speech explicitly addresses the global outlook, international trade, globalization, protectionism, and resilience. Growth & output is material through discussion of the vaccine-driven recovery and upward revisions to global GDP growth forecasts. Uncertainty & forecasting is also relevant because the speech emphasizes divergence in economic outlooks, risks of further lockdown disruption, and revisions to forecasts.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2023/february/huw-pill-panellist-at-the-suerf-workshop,"Gauging (dis)inflationary pressures: comparing tools and current findings SUERF February Emma Hatwell and Huw Pill Monetary Analysis Unobserved components (UC) models determine our bottom-up approach to short-term inflation forecasts CPI inflation rose to % in Q4, but is expected to fall back to % by Q21 Sources: Bloomberg Finance L.P., Department for Business, Energy and Industrial Strategy, ONS and Bank calculations. 1Figures in parentheses are CPI basket weights in . Data to December . Bank staff projections from January to June . Fuels and lubricants estimates use Department for Business, Energy and Industrial Strategy petrol price data for January and then are based on the sterling oil futures curve. Other goods is the difference between CPI inflation and the other contributions identified in the chart. Utilise staff research to improve the accuracy of the models / to / of STIF components by weight were improved at the to month horizon2, • UC model with stochastic volatility and automatic outlier adjustment o Stochastic volatility is useful as certain components experience periods of higher volatility o The outlier detection feature handles the one-off changes in volatility o The outlier detection feature is comparable to most recent developments in the literature during the Covid period that accounts for the fat-tails/ t- distribution Red dots show weaker performance from using the new UCSV models Blue dots show improvement from using the new UCSV models Sources: ONS and Bank calculations. Component Level Short-Term Inflation Forecasting for the UK (Esady and Mate, mimeo) We exclude non-comparable components for our forecast comparison. These include petrol, utilities, education, financial services, other household goods and other household services. Actual STIF includes staff judgement which may have improved forecasting performance, so comparison not purely like-for-like We use an indicator model as a top-down cross-check We draw on a number of different indicators… …which allow us to cross-check against our main forecast Agents Increasing correlation PMI Agents with CPIX PPI PMI Agents PPI Agents PPI PPI PMI MakeUK Agents PMI Agents Agents MakeUK Agents BCC CBI CBI BCC BCC SPPI BCC CBI BRC PriceStats Imports Notes: • CPIX excludes energy, housing, >85th percentil e education and financial services Up to 85th percentil e • Text in squares indicates source of Wi thi n 35th-65th percentil es indicators; more than one indicator Up to 35th percentil e can be drawn from any single data <15th percentil e Sources: ONS, S&P Global/CIPS and Bank calculations. source Food price inflation has reached a -year high reflecting higher agricultural prices and producer input costs Commodity prices and food PPIs remain elevated but are expected to slow Sources: S&P GSCI agriculture and livestock index spot Sources: ONS. and Bank Calculations. Energy prices have soared; we aim to capture both direct and indirect effects on CPI Contributions from energy are expected to fall but As we also estimate the indirect effects of energy remain high No direct Use Market curve for gas and effect given oil to estimate coke and price cap refined petroleum, electricity and gas price changes CPA to COICOP converter Use I-O analysis to CPI Weights estimate indirect effects Convert into CPI Sources: Bloomberg Finance L.P., Department for Business, Energy and Industrial Strategy, ONS and Bank calculations. We track measures of underlying inflation and higher frequency movements to assess the risk of inflation persistence Underlying inflation model (UIM) captures High frequency measures help us to understand common movements between components4 changes in momentum Sources: ONS and Bank calculations. Sources: ONS and Bank calculations. 4How broad-based is the increase in UK inflation? (G. Potjagailo, B.Wanengkirtyo and J. Lam, ) [link] Households’ inflation expectations have fallen, but remain elevated Bank/Ipsos and Citigroup/YouGov one-year Citigroup/YouGov one-year ahead inflation household inflation expectations expectations distribution Sources: Inflation attitudes survey and Citigroup/YouGov Sources: Citigroup/YouGov and Bank calculations. and Bank calculations. As DMP business inflation expectations also remain elevated Decision Maker Panel CPI and own price Decision Maker Panel text analysis5, expectations Sources: DMP survey. Sources: DMP survey and Bank calculations. 5Firm inflation expectations in quantitative and text data (G. Thwaites, I. Yotzov, Ö. Öztürk, P. Mizen, P. Bunn, N. Bloom, . Anayi, ) [link] 6Text analysis of reasons for firms’ own price expectations in months time, August to October DMP surveys. Data are for August-October period The high inflation environment is driving pay growth Models show inflation expectations are the main …and results from our Agents’ survey corroborate contributor to pay growth… this story Sources: ONS and Bank calculations. Sources: DMP survey. With pay contributing to underlying strength in services inflation Median and underlying measures appear better correlated with pay than headline services Sources: ONS and Bank calculations.",Gauging (dis)inflationary pressures: comparing tools and current findings - slides by Huw Pill,2023-02-10,"[('cpi inflation', 0.7389), ('price inflation', 0.7299), ('high inflation', 0.7078), ('inflation environment', 0.6909), ('inflation expectations', 0.6847), ('models inflation', 0.6545), ('pay growth', 0.5642), ('agricultural prices', 0.5603), ('prices producer', 0.5361), ('prices food', 0.516)]",cpi inflation,0.7389,price inflation,0.7299,high inflation,0.7078,inflation environment,0.6909,inflation expectations,0.6847,models inflation,0.6545,pay growth,0.5642,agricultural prices,0.5603,prices producer,0.5361,prices food,0.516,Huw Pill,title,2023-02-10,2023,internal,internal,2021-09-01,1.42,1,,,,,,,Chief Economist,17,url_49d07bab5219f5fc61d7a9c5a7a523eb1550669c75d09e12e36a4e509829d48d,Gauging (dis)inflationary pressures: comparing tools and current findings - slides by Huw Pill,784,inflation_and_prices,Inflation & prices,"[""Inflation & prices"", ""Uncertainty & forecasting"", ""Growth & output""]",30.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,15.0,inflation_and_prices,uncertainty_forecasting; labour_market,0.98,"The speech assesses current and prospective inflation using short-term inflation forecasting models, indicator-based cross-checks, measures of underlying inflation, inflation expectations, energy and food prices, and the relationship between pay growth and services inflation.","Inflation and prices is clearly the central theme: the presentation focuses on gauging inflationary and disinflationary pressures, including CPI components, food and energy prices, underlying inflation, persistence and inflation expectations. Uncertainty and forecasting is a material secondary theme because much of the speech compares forecasting tools, including unobserved-components models, indicator models, stochastic volatility and high-frequency measures. Labour market is also material because the presentation explicitly examines how the high-inflation environment and inflation expectations are driving pay growth and how pay contributes to persistent services inflation. Monetary policy tools or Bank Rate setting are not materially discussed.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2023/february/silvana-tenreyro-conference-frb-of-ny-panellist-at-the-session-back-to-2-inflation,"Back to % Inflation? The Credibility of Government Policies: Conference in Honor of Guillermo Calvo, Columbia University, New York Silvana Tenreyro External member of the Monetary Policy Committee Key Points • Rise in energy prices was a large terms-of-trade shock. • Large cross country differences in effects and required responses. • Policymakers, including in the UK, tightened policy sharply. • Shape of the shock + policy lags: • Limits to how much could be offset. • Suggests risks of overtightening (undershooting % target in medium term). US terms of trade have improved; UK and Euro area have worsened Terms of trade Jan = United States Euro area United Kingdom Sources: US Bureau of Labor Statistics, Eurostat, ONS and Bank calculations. Terms of trade patterns reflected in household consumption Real household consumption United States Euro area United Kingdom Q4 = Q4 = Q4 = Pre-pandemic Pre-pandemic Pre-pandemic trend (-) trend (-) trend (-) Data Data Data 2019Q4 2020Q4 2021Q4 2022Q4 2019Q4 2020Q4 2021Q4 2022Q4 2019Q4 2020Q4 2021Q4 2022Q4 Sources: US Bureau of Economic Analysis, Eurostat, ONS and Bank calculations. Stylised transmission of global energy price shock to UK inflation Policy and financial conditions have tightened rapidly and materially -year OIS rates, monthly averages Per cent Per cent United Kingdom United States Euro area - - Jun Aug Oct Dec Feb Apr Jun Aug Oct Dec Feb Sources: Eikon Refinitiv and Bank calculations. Data to February . Inflationary shock has a steep profile and expected fall UK CPI inflation, February MPR modal forecast (to Q2) Feb inflation forecast Per cent Per cent - - - - - - - - - - - - - - Sources: Bank of England and Bank calculations. Typical monetary policy effect is lagged and gradual UK CPI inflation forecast and example extra policy tightening beginning in Q2 Feb inflation forecast Per cent Per cent • Scenario has around percentage points of additional rate increases over . • Raises Bank Rate to a peak of over %. - - Example - - policy effect - - - - Notes: Policy effect calculated as the difference - - between market rate and constant rate inflation - - forecasts in the MPC’s November - - Monetary Policy Report, linearly scaled to the size needed to bring inflation to % in Q4. Sources: Bank of England and Bank calculations. Far tighter policy worsens medium-term inflation undershoot UK CPI inflation forecast and counterfactual scenario with extra policy tightening Feb inflation forecast Per cent Per cent • Scenario has around percentage points of additional rate increases over . Inflation (after policy) • Raises Bank Rate to a peak of over %. - - Example • Unemployment around - - policy effect percentage points higher. - - - - Notes: Policy effect calculated as the difference - - between market rate and constant rate inflation - - forecasts in the MPC’s November - - Monetary Policy Report, linearly scaled to the size needed to bring inflation to % in Q4. Sources: Bank of England and Bank calculations. Far tighter policy worsens medium-term inflation undershoot UK CPI inflation forecast and counterfactual scenario with extra policy tightening Feb inflation forecast Per cent Per cent • Scaling up to reach % inflation in would imply policy rate above %. • Implied medium-term Inflation (after policy) inflation would be extremely far below %. - - - - - - - - Example Notes: Policy effect calculated as the difference - - between market rate and constant rate inflation policy effect - - forecasts in the MPC’s November - - Monetary Policy Report, linearly scaled to the size needed to bring inflation to % in Q4. Sources: Bank of England and Bank calculations. Key Points • Rise in energy prices was a large terms-of-trade shock. • Large cross country differences in effects and required responses. • Policymakers, including in the UK, tightened policy sharply. • Shape of the shock + policy lags: • Limits to how much could be offset. • Suggests risks of overtightening (undershooting % target in medium term).",Back to 2% inflation? - slides by Silvana Tenreyro,2023-02-24,"[('energy prices', 0.5628), ('outlook economy', 0.5385), ('economy remains', 0.4973), ('policy sharply', 0.4778), ('trade shock', 0.4487), ('prices large', 0.4316), ('obama expected', 0.3996), ('uk euro', 0.386), ('energy', 0.3848), ('trade improved', 0.3814)]",energy prices,0.5628,outlook economy,0.5385,economy remains,0.4973,policy sharply,0.4778,trade shock,0.4487,prices large,0.4316,obama expected,0.3996,uk euro,0.386,energy,0.3848,trade improved,0.3814,Silvana Tenreyro,title,2023-02-24,2023,external,external,2017-07-01,5.58,5,,,,,,,External member,67,url_bf29864b72e6a85c2d7580bc41cb7910dc818fd5735f6babcd15f253c25284c6,Back to 2% inflation? - slides by Silvana Tenreyro,586,inflation_and_prices,Inflation & prices,"[""Inflation & prices"", ""Uncertainty & forecasting"", ""Conventional monetary policy""]",30.0,11.0,0.0,0.0,1.0,1.0,9.0,0.0,0.0,19.0,conventional_monetary_policy,inflation_and_prices; global_economy_trade; uncertainty_forecasting,0.97,"Policymakers, including in the UK, tightened policy sharply; given the shape of the inflationary shock and policy lags, further tightening risks overtightening and undershooting the inflation target in the medium term.","The speech's central argument concerns the appropriate setting of Bank Rate in response to a large energy-driven inflation shock, with particular emphasis on the lagged effects of rate increases and the risk that excessive tightening would push medium-term inflation below target. Inflation and prices are therefore a major secondary theme. The global economy and trade are material because the analysis frames the energy shock as a terms-of-trade shock and compares its effects across the UK, euro area and US. Uncertainty and forecasting is also material because the argument relies heavily on the MPC inflation forecast and counterfactual policy scenarios to assess the risks of further tightening.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2023/june/huw-pill-panellist-at-european-central-bank-forum-on-central-banking,"Recent experiences in macroeconomic forecasting ECB Forum on Central Banking Sintra, Portugal Huw Pill Wednesday June CPI inflation projection in the February MPR Percentage increase in prices on a year earlier May outturn CPI Inflation ‐ ‐ Projection ‐ ‐ Sources: ONS and Bank calculations (a) For the conditioning assumptions on which the February projections were based, see the s to Table .A of the February MPR. Household consumption rebound since Covid- Index = Q4 Sources: ONS, US Bureau of Labor Statistics, Eurostat and Bank calculations. Note: For the UK we use a chained‐volume measure defined as households’ final consumption expenditure and final consumption expenditure of non‐profit institutions serving households. For the US we use PCE (Personal Consumption Expenditure.) For the euro area we use final consumption expenditure for household and non‐profit institutions serving households. Trend line estimated using ‐ data. Wholesale natural gas prices and conditioning assumptions Pence per therm Spot price August February November May Sources: Bloomberg Finance L.P. and Bank calculations. (a) Spot price is the one‐day forward price of UK natural gas, as of June . The projections in May , February and November are conditioned on wholesale gas prices following futures curves. These futures curves were the working day averages to April and January respectively for May and February and the seven working day average to October for November . The projections in August were conditioned on wholesale gas prices following the futures curve in the working days to July for the first six months and then remaining constant. Changing behaviour and forward looking indicators 3moya, % Annual rate, % REC survey lagged months PPI output lagged months, RHS Private sector pay CPI goods ex energy LHS growth ‐ ‐ - - ‐ ‐ Sources: ONS and Bank calculations. PPI series refers to annual manufacturing rates. Sources: KPMG/REC UK Report on Jobs, ONS and Bank calculations. DMP evidence on frequency of firm pricing decisions Percentage of businesses (%) No change Annually Half‐yearly Quarterly Monthly Weekly Daily Typical frequency of price changes Sources: DMP Survey and Bank calculations. The latest data are from the May Survey. The results on frequency of price changes are based on the question: ‘Approximately how often did your prices change in each of the following years?’. Respondents were then asked to choose one of the following options for both year and : daily, weekly, monthly, quarterly, half‐yearly, annually, and prices did not change. DMP evidence points to change in firm pricing expectations Per cent (%) Use time‐dependent pricing Use state‐dependent pricing Time‐dependent expectations for year ahead State‐dependent expectations for year ahead Expectations Jun‐ Dec‐ Jun‐ Dec‐ Jun‐ Dec‐ Jun‐ Dec‐ Jun‐ Dec‐ Jun‐ Dec‐ Jun‐ Sources: DMP Survey and Bank calculations. Three‐month moving averages. Realised price growth (lines) are responses to the question: ‘Looking back, from months ago to now, what was the approximate % change in the average price you charge, considering all products and services?’. The latest data are from the May Survey. Expected price growth (diamonds) are responses to the question: ‘Looking ahead, from now to months from now, what approximate % change in your average price would you expect in each of the following scenarios: lowest, low, middle, high and highest?’, and respondents are asked to assign a probability to each scenario which is used to create a weighted average expectation of price growth..",Recent experiences in macroeconomic forecasting - slides from Huw Pill,2023-06-28,"[('gas prices', 0.5536), ('following futures', 0.5527), ('price changes', 0.5481), ('futures curves', 0.5434), ('projections february', 0.5419), ('prices following', 0.5392), ('futures', 0.536), ('conditioned wholesale', 0.4765), ('wholesale gas', 0.4579), ('did prices', 0.4498)]",gas prices,0.5536,following futures,0.5527,price changes,0.5481,futures curves,0.5434,projections february,0.5419,prices following,0.5392,futures,0.536,conditioned wholesale,0.4765,wholesale gas,0.4579,did prices,0.4498,Huw Pill,title,2023-06-28,2023,internal,internal,2021-09-01,1.75,1,,,,,,,Chief Economist,21,url_41f318d273b4da31702c61cd61b9899d81dbf40e42caaa875a16024348710125,Recent experiences in macroeconomic forecasting - slides from Huw Pill,548,inflation_and_prices,Inflation & prices,"[""Inflation & prices"", ""Uncertainty & forecasting"", ""Growth & output""]",14.0,0.0,0.0,5.0,0.0,0.0,1.0,0.0,0.0,6.0,uncertainty_forecasting,inflation_and_prices,0.93,"The speech focuses on recent macroeconomic forecasting experience, comparing CPI inflation projections with outturns and examining changing firm pricing behaviour, expectations and forward-looking indicators.","The central subject is the performance and challenges of macroeconomic forecasting, particularly after large shocks, making uncertainty_forecasting the strongest primary theme. Inflation_and_prices is a material secondary theme because inflation projections, wholesale energy prices, firms' pricing decisions and price expectations provide the main empirical setting for the discussion.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2023/august/huw-pill-speaker-at-the-south-african-reserve-bank-biennial-conference-back-to-target,"Recent developments in UK monetary policy South African Reserve Bank Biennial Conference Cape Town, South Africa Huw Pill August Pandemic altered patterns of global demand … Sources: OECD Quarterly National Accounts, IMF World Economic Outlook and Bank of England calculations … as well as constraining global supply, particularly for goods + tighter / ‐ looser Sources: Refinitiv Eikon from LSEG, S&P Global/CIPS and Bank of England calculations Notes: Indicators are estimated by Bank staff using principal component analysis on a range of PMIs for supply constraints in the manufacturing sector (supplier delivery times, stocks of purchases, stocks of finished goods, input prices and backlogs of work). Before principal components are estimated, these indicators are regressed on the new orders PMI to control for movements in demand. Latest data for the Global and China series are for March , and April for the US and the euro-area series Global goods inflation rose owing to bottlenecks Chart shows estimates of the impact of changes in mortgage rates on consumption, based on the maturity profile of the stock of mortgages at the end of . Up until Q1, it assumes fixed-rate mortgages were re- mortgaged at the effective rate on new lending. Variable-rate mortgages are assumed to change in line with changes in Bank Rate. Beyond that, it uses a projection for quoted rates on new secured lending for households, taking into account the market-implied path for interest rates. Figures are shown relative to nominal consumption in , and assume that on average households reduce consumption by pence for every £ increase in their mortgage repayments Deep dive into FX pass-through sector-by-sector",Recent developments in UK monetary policy - slides from Huw Pill,2023-08-31,"[('consumption pence', 0.6129), ('nominal consumption', 0.5304), ('consumption', 0.5255), ('pence increase', 0.525), ('consumption assume', 0.4491), ('china series', 0.4462), ('households reduce', 0.4335), ('april figures', 0.4334), ('pence', 0.4206), ('mortgage', 0.4081)]",consumption pence,0.6129,nominal consumption,0.5304,consumption,0.5255,pence increase,0.525,consumption assume,0.4491,china series,0.4462,households reduce,0.4335,april figures,0.4334,pence,0.4206,mortgage,0.4081,Huw Pill,title,2023-08-31,2023,internal,internal,2021-09-01,1.92,1,,,,,,,Chief Economist,23,url_1079acbe9f79d21da6f12329cc2212da63ebefcd0cbcae0f5d2cc9b9788b48d1,Recent developments in UK monetary policy - slides from Huw Pill,269,conventional_monetary_policy,Conventional monetary policy,"[""Conventional monetary policy"", ""Inflation & prices"", ""Global economy & trade""]",2.0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,inflation_and_prices,conventional_monetary_policy; global_economy_trade; growth_output,0.88,"The speech links pandemic-driven shifts in global demand and constrained goods supply to higher global goods inflation, while examining mortgage-rate transmission to consumption and FX pass-through.","Inflation and its drivers are central, particularly global supply bottlenecks, goods-price pressures and exchange-rate pass-through. Conventional monetary policy is also material because the speech examines how Bank Rate and mortgage rates transmit to household consumption. The discussion of pandemic-related global demand and supply developments supports global_economy_trade, while the effect of higher mortgage repayments on consumption makes growth_output a relevant secondary theme.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2024/may/catherine-l-mann-cost-of-capital-and-uk-business-investment-slides,"Cost of Capital and UK Business Investment: Measurement Challenges and Research Opportunities Economic Statistics Centre of Excellence Annual Conference at Alliance Manchester Business School May Catherine L. Mann External Member of the Monetary Policy Committee Road map • Setting the stage: UK business investment has under-performed; so has productivity growth • Why central banks care: Cyclical demand and supply-side ‘speed limit’ Interest rates are central to investment theory • A new framework: Three actors and analytical perspectives – economic net present value, manager decision-making, and financial investor funding – influence the amount and type of business investment • Centrality of the cost of capital: Different measures of the cost of capital (internal funds, hurdle rate, WACC, ROIC) Time series evolution and relevance for business investment • Research Opportunities: Firm, manager, and financier – relative roles to affect the cost of capital and UK business investment Cost of capital and marketplace environment – relative roles to affect UK business investment Setting the stage and Why central banks care UK total investment has underperformed international peers Gross Fixed Capital Formation as % of GDP Percent Canada France Germany Italy UK US Japan Table in Carella et al. and ranges show the reported % confidence interval. Sales matter for UK investment, in a ‘surprising’ way Cyclicality of sales surprises Histogram of sales growth surprises Sales growth surprise (%) - - - Jul- Jul- Jul- Jul- Jul- Jul- Jul- Chart shows the median sales growth surprises in each quarter (orange diamond), Invest’. Notes: Realised sales growth surprises (aqua) along with a hypothetical distribution of sales growth the interquartile range (blue bar) and the minimum and maximum points of the distribution, omitting forecast errors (orange) that follows firms’ subjective probability distributions (i.e. a histogram of sales outliers (values that are *IQR above the upper quartile/below the lower quartile). growth surprises obtained by taking independent draws from firms’ subjective probability distributions). Sales surprises and the marginal propensity to invest Gross investment response to a % unexpected sales surprise • A measure of a firm’s marginal propensity of invest • A % unexpected sales surprise increases gross investment by %. • The effects are stronger for firms using state- dependent pricing (more attentive to the environment) • Uncertainty increases a firm reaction to sales growth surprises – consistent with gaining more information and learning from the surprise. • On cost of capital? - • No statistical finding for financial constraints to explain firm investment - Aggregate Time-dependent State-dependent pricing pricing",Cost of capital and UK business investment: Measurement challenges and research opportunities - slides by Catherine L. Mann,2024-05-17,"[('investment effects', 0.6074), ('business investment', 0.6001), ('productivity growth', 0.5507), ('investment', 0.5383), ('uk business', 0.5374), ('gross investment', 0.5362), ('sales surprise', 0.5323), ('unexpected sales', 0.5286), ('investment performed', 0.5136), ('stronger firms', 0.5099)]",investment effects,0.6074,business investment,0.6001,productivity growth,0.5507,investment,0.5383,uk business,0.5374,gross investment,0.5362,sales surprise,0.5323,unexpected sales,0.5286,investment performed,0.5136,stronger firms,0.5099,Catherine L. Mann,title,2024-05-17,2024,external,external,2021-09-01,2.67,2,,,,,,,External member,32,url_104b9c9eb1de1a9a8116c6952b86438cb9c6763698d4b3fc1f3bc1578c481f6c,Cost of capital and UK business investment: Measurement challenges and research opportunities - slides by Catherine L. Mann,394,growth_output,Growth & output,"[""Growth & output"", ""Financial stability & regulation"", ""Conventional monetary policy""]",0.0,2.0,0.0,27.0,1.0,0.0,0.0,7.0,0.0,2.0,growth_output,financial_conditions; uncertainty_forecasting,0.93,UK business investment has under-performed; so has productivity growth. The speech examines how different measures of the cost of capital and firms' sales surprises influence the amount and type of business investment.,"The central subject is weak UK business investment and its implications for productivity and the economy's supply-side capacity, making growth_output the strongest theme. Financial_conditions is material because the speech focuses on the cost of capital, financing perspectives and financial constraints as potential determinants of investment. Uncertainty_forecasting is also relevant because firms' subjective sales expectations, forecast surprises and uncertainty are explicitly analysed as drivers of investment responses. Interest rates are mentioned as central to investment theory, but the supplied text does not materially discuss Bank Rate decisions, stance or transmission, so conventional_monetary_policy is not selected.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2024/october/swati-dhingra-panellist-at-the-reserve-bank-of-india-conference,"Monetary Policy: Lessons from the Pandemic RBI@ October Swati Dhingra Exceptional Circumstances • V-shaped Pandemic/Support • War and Terms of Trade • Data fog/data dependence A succession of exceptional circumstances Covid- pandemic Energy price shock Data fog GDP relative to February Utility bills (=) Fall in Labour Force Survey Response UK Wave-specific response rates EA US Total response rate Jan Jul Jan Jul Jan Jul Analytical Toolkit • Fool’s Gold: refinements to a model-based forecast • Real Gold: better data and research design to reduce uncertainty Reliance on theoretical and statistical model-based forecasts • Forecast errors across central banks were • While the shocks could not have been relatively similar during this inflationary anticipated, the forecast errors of the models episode despite different models and tools. were persistent and systematic. Inflation, one-year-ahead forecast error Percent Sweden UK CPI CPI forecasts Norway New Zealand US Canada Euro Area - - - - - - Analytical Toolkit • Fool’s Gold: forecast refinements during large shocks • Real Gold: better data and research design to reduce uncertainty Research design to understand mechanisms • Granular wage and inactivity data from local labour • Fragmentation of production and rise of supply chains markets in the UK offers little evidence of positive make standard metrics, such as core and services correlation, suggesting rising inactivity was not a key inflation, less informative for assessing imported driver of wage inflation during the current episode. inflation. Hourly wages, average year-on-year growth Pp. contribution to % change, Q4 to - - - - CPI Core Services Core services - Energy Imports exc energy Final use imports - - - Unit labour costs Taxes Gross operating surplus Inactivity rate, change in percentage points Error CPI Making use of forward-looking data to reduce uncertainty Supply Chains Firms Mortgages % Deviation from trend ( average) Proportion of mortgages with fix period expiring CPI PPI , , , , Registrations , , Net entry , , , , , , -, -, Dissolutions -, -, Dissolution notices Fixed - -, -, H1 H2 H1 H2 H1 H2 into Conclusions International Shocks Toolkit Evidence The global economy has been hit While experimenting with Data innovations and better by a succession of large external different risks in a forecasting research design to interpret the shocks. Going forward, the apparatus may be helpful for data become crucial to obtain lessons from these shocks may thinking through the forward-looking insights to matter more than before due to uncertainties, they are secondary discipline policy. geopolitics and climate change. to actual information on how the economy is evolving.",Monetary Policy: Lessons from the pandemic - slides by Swati Dhingra,2024-10-14,"[('pandemic rbi', 0.637), ('fog gdp', 0.5876), ('pandemic energy', 0.5109), ('pandemic support', 0.4706), ('rbi lessons', 0.4682), ('rbi october', 0.463), ('utility bills', 0.438), ('trade data', 0.416), ('data fog', 0.4089), ('energy price', 0.3915)]",pandemic rbi,0.637,fog gdp,0.5876,pandemic energy,0.5109,pandemic support,0.4706,rbi lessons,0.4682,rbi october,0.463,utility bills,0.438,trade data,0.416,data fog,0.4089,energy price,0.3915,Swati Dhingra,title,2024-10-14,2024,external,external,2022-08-01,2.17,2,,,,,,,External member,26,url_d493777bcc721a54c1c011731609318d582b32e38aac731bdb112e9e17e56c97,Monetary Policy: Lessons from the pandemic - slides by Swati Dhingra,394,uncertainty_forecasting,Uncertainty & forecasting,"[""Uncertainty & forecasting"", ""Inflation & prices"", ""Global economy & trade""]",9.0,1.0,0.0,2.0,2.0,0.0,8.0,0.0,1.0,23.0,uncertainty_forecasting,inflation_and_prices; global_economy_trade; labour_market,0.95,"The speech argues that model-based forecast errors during the inflation episode were persistent and systematic, and that data innovations, granular evidence and better research design are crucial for reducing uncertainty and obtaining forward-looking insights.","The central argument is about lessons for forecasting and policymaking under exceptional shocks and severe data uncertainty, making uncertainty_forecasting the clear primary theme. Inflation_and_prices is material because the discussion evaluates inflation forecast errors, imported inflation, core and services inflation, and the recent inflation episode. Global_economy_trade is also important because the speech emphasizes pandemic and energy shocks, terms-of-trade effects, fragmented production and supply chains, and future geopolitical risks. Labour_market is a secondary theme through the analysis of wages, inactivity and granular labour-market data, including the conclusion that rising inactivity was not a key driver of wage inflation.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2024/november/swati-dhingra-panellist-at-third-boe-watchers-conference-inflation-dynamics,"Inflation Dynamics Bank of England Watchers Conference, November Swati Dhingra External Member of the Monetary Policy Committee Shocks and adjustment to the pandemic differed across regions Energy price shock Consumption trends Labour market dynamics Huge terms of trade shock, • Underlying cost components and residual gross operating • Decomposing consumer price inflation and narrower price surplus (GOS) shares of consumption basket growth measures in terms of cost components and GOS • Compare energy’s % share with % in the Euro Area • Energy and imports contributed of .5pp to CPI Huge terms of trade shock, – even in services excluding rent • Underlying cost components and residual gross operating • Decomposing consumer price inflation and narrower price surplus (GOS) shares of services inflation excluding rent growth measures in terms of cost components and GOS • Compare energy’s % share with % in the Euro Area • Energy and imports contributed of .1pp to Services Huge terms of trade shock, • Decomposing consumer price inflation and narrower price • Energy and imports contributed of .5pp to CPI in growth measures in terms of cost components and GOS and of .7pp in • to the left and to the right Huge terms of trade shock, • Decomposing consumer price inflation and narrower price • Energy and imports contributed of .5pp to CPI in growth measures in terms of cost components and GOS and of .7pp in and of .7pp by • to the left and to the right 2024Q3 Waning pipeline cost pressures have accompanied headline disinflation, and services inflation is normalising slowly Supply chains Services inflation Sub-class dispersion Risks to the outlook are uncertain and difficult to gauge Restrictive policy Geopolitical tensions Inadequate data Higher rates and waning Escalating conflict or Monitoring the state of effects of pandemic economic fragmentation the economy in real time support weigh on could threaten to derail has been complicated by investment and living global disinflation. a lack of reliable data. standards. Insert document classification (edit via 'Header & Footer')",Inflation dynamics - slides by Swati Dhingra,2024-11-25,"[('adjustment pandemic', 0.5374), ('committee shocks', 0.5156), ('pandemic differed', 0.4994), ('pandemic', 0.485), ('monetary', 0.4814), ('member monetary', 0.4574), ('shocks adjustment', 0.3911), ('shocks', 0.3841), ('adjustment', 0.3784), ('policy committee', 0.3442)]",adjustment pandemic,0.5374,committee shocks,0.5156,pandemic differed,0.4994,pandemic,0.485,monetary,0.4814,member monetary,0.4574,shocks adjustment,0.3911,shocks,0.3841,adjustment,0.3784,policy committee,0.3442,Swati Dhingra,title,2024-11-25,2024,external,external,2022-08-01,2.25,2,,,,,,,External member,27,url_38ca1d0638b6ea952a0bd78fb22954a9720c961ffe3399ea783bdfbc984703ec,Inflation dynamics - slides by Swati Dhingra,317,inflation_and_prices,Inflation & prices,"[""Inflation & prices"", ""Global economy & trade"", ""Growth & output""]",15.0,1.0,0.0,5.0,1.0,0.0,11.0,0.0,0.0,3.0,inflation_and_prices,global_economy_trade; uncertainty_forecasting; conventional_monetary_policy,0.96,"The speech examines inflation dynamics following a huge terms-of-trade and energy-price shock, decomposes CPI and services inflation into cost and profit components, and notes that waning pipeline cost pressures have accompanied headline disinflation while services inflation is normalising slowly.","Inflation and its underlying drivers are the clear central subject. Global economy and trade is material because imported energy costs, supply chains, geopolitical tensions and economic fragmentation feature prominently. Uncertainty and forecasting is relevant because the speech stresses that risks to the outlook are difficult to gauge amid inadequate real-time data. Conventional monetary policy is also material through the discussion of restrictive policy, higher rates and their effects on investment and living standards.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2025/may/megan-greene-panellist-at-the-bank-of-england-bank-watchers-conference,"Monetary policy outlook Megan Greene Where are we now vs. the start of the year? GDP growth Unemployment rate CPI inflation Sources: BCC, CBI, Lloyds Business Barometer, ONS, S&P Global and Bank calculations. The lighter diamonds show Bank staff’s projections at the time of the February Report. The darker diamonds show Bank staff’s current projections. The projections for headline GDP growth and the unemployment rate are quarterly and show Q1 and Q2 (February projections show Q4 to Q2). The projections for CPI inflation are monthly and show April to September (February projections show January to June ). The GDP growth and unemployment rate projections for Q1 are based on official data to February , while the CPI inflation figures over the same quarter are outturns. Although LFS unemployment data have been reinstated by the ONS, they are badged as official statistics in development and the LFS continues to suffer from very low response rates, which can introduce volatility and potentially non-response bias (Box D of the May Monetary Policy Report). Inflation persistence remains in focus Services inflation Pay growth The observed V/U ratio and the estimated equilibrium level Private sector regular pay Sources: . LHS chart: ONS and Bank calculations. The low variance measure is calculated by weighting each component of services inflation by the inverse variance of the change in -month inflation of that component from months previously. The maximum adjusted weight is capped at twice its original value. Details on the components which have been included/excluded from the ‘Services excluding indexed and volatile components, rents and foreign holidays’ measure are included in the accompanying spreadsheet published online. All measures are seasonally adjusted. The trimmed mean measure excludes the % largest and % smallest price changes. The latest data points shown refer to March . Centre chart: Bank of England Agents, DMP Survey, HMRC, Indeed, KPMG/REC UK Report on Jobs, Lloyds Business Barometer, ONS and Bank calculations. Private sector regular pay growth in the aqua line shows the ONS measure of private sector regular average weekly earnings growth (three-month average on same three-month average a year ago). Latest data points are for the three months to February for private sector regular pay. DMP shows three- month average realised pay growth from the DMP Survey. KPMG/REC shows average starting salaries for permanent staff compared to the previous month. The KPMG/REC index is mean-variance adjusted to ONS private sector regular pay growth over – and is advanced by months, which better reflects the leading relationship between the KPMG/REC index and the ONS measure of pay growth. HMRC Real-Time Information (RTI) shows median of private sector employee pay growth. Indeed shows annual average job title matched pay growth for UK job vacancies. Latest data points are March for Indeed, HMRC RTI and the KPMG/REC index, and April for the DMP Survey. The Agents’ pay survey diamond shows respondents’ expected average pay settlements in , weighted by employment and sector. The DMP diamond shows average expected pay growth one year ahead for respondents to the April DMP Survey. RHS: AA/WARC Expenditure Report, ONS and Bank calculations. The equilibrium V/U ratio is estimated using an error-correction model over the period –. The real cost of vacancy posting and hourly labour productivity are included as long-run determinants for the level of vacancies. The model also includes controls for short-term movements in these variables (Stelmach et al, ). The final data points for both series in the chart are Q4, while diamonds represent projections for Q1. A near-term bump in inflation is expected to fall back though expectations remain elevated CPI inflation and CPI inflation Household and business short- Household and business longer- excluding energy term inflation expectations term inflation expectations Sources: LHS: Bloomberg Finance L.P., ONS and Bank calculations. Energy prices include fuels and lubricants, electricity, gas and other fuels. Centre and RHS: Bank/Ipsos Inflation Attitudes Survey (IAS), Citigroup, YouGov, DMP and Bank calculations. Bank/Ipsos IAS data shows median responses. Data shown are the one year and five year ahead inflation expectations measures. Dashed lines represent the series averages over –. A methodological break occurred during the Covid pandemic that means a degree of caution should be taken when making long-run comparisons with these data. The methodology notes linked in the latest IAS release for February provide more information. Data are not seasonally adjusted and the latest data points are for Q1. Citi/YouGov survey data shown are the one year and five to ten year ahead inflation expectations measures. Dashed lines represent the series averages over –. Since August , the YouGov/Citigroup survey has been based on updated response buckets. Data are not seasonally adjusted and the latest data points are for April . DMP data is year and year ahead CPI expectations. Latest data points are for April . A key question remains whether weakness in activity is supply or demand driven – or both Results from Bank staff’s SVAR Sources: LHS: Chart shows the estimated distribution of domestic and global demand and supply shocks that have hit the UK economy in Q3, Q4 and Q1. These shocks are derived from a SVAR model for the UK economy, estimated using Bayesian techniques on data from Q1 to Q1. The shocks are identified through zero and sign restrictions. Moreover, the SVAR also estimates a global energy shock and a domestic monetary policy shock, not shown here. See here for further details on the model. RHS: Chart shows a decomposition of YoY headline GDP growth using results from the SVAR model. The chart is expressed in deviation from deterministic component (around %). Productivity continues to be surprisingly weak Average annual growth rate of whole economy labour productivity Sources: ONS and Bank calculations. Businesses’ responses to the rise in the NICs is still unclear Proportion of firms reporting responses to Autumn Budget policy changes by margin of adjustment Sources: Agents’ pay survey, Deloitte, DMP Survey, IoD and Bank calculations. Agents’ pay survey results are based on the question: ‘In response to the April increases in employers’ National Insurance contributions (NICs) and National Living Wage/National Minimum Wage (NLW), and other changing labour market policies (including proposals in the Employment Rights Bill), what actions do you plan to take (select up to three that are most relevant/significant to you)?’. Firms are allowed to select multiple options, although limited to three options, therefore the percentages do not add up to . Responses are weighted by firm industry and size. Responses are for November and December . Deloitte CFO survey results are based on weighted- average ratings on a scale of – for how likely chief financial officers are to pursue the following strategies in response to the forthcoming rise in employer National Insurance contributions. Zero stands for not pursuing at all and stands for pursuing to the greatest extent. Latest data are for Q4. DMP results are based on the question: ‘How do you expect your business to respond to the changes to employer National Insurance contributions announced in the November Budget?’. Firms are allowed to select multiple options, therefore the percentages do not add up to . Responses are weighted by firm industry and employment. Responses are for January . IoD results are based on responses the question: ‘You said the changes will increase your employer National Insurance bill. How do you plan to respond to the resulting higher costs of employment?’. Latest data are for February . Other option not shown in chart had response of %. Official statistics still face some challenges LFS response rates, excluding Measures of employment Quarterly change in the imputed households growth unemployment rate Sources: LHS: ONS. Latest data is for 2024Q4. Response rate shown is total response rate. The total response rate is the cumulative response rate for the quarter across all waves, based on all eligible, in-scope households. Centre: Bank of England Agents, DMP survey, HM Revenue and Customs, KPMG/REC/S&P Global UK Report on Jobs, Lloyds Business Barometer, ONS, S&P Global and Bank calculations. (a) Bank staff’s indicator-based measure of underlying employment growth is constructed using a dynamic factor model following the approach of Doz et al . The model extracts a common component from monthly survey indicators, capturing co-movements across series. The common component is scaled to align with LFS employment growth between –. Shaded area represents % confidence intervals. Latest data are for the three months to February for the LFS and April for the survey data. RHS: Bank of England Agents, Google Trends, S&P Global, KPMG/REC UK Report on Jobs, ONS and Bank calculations. Bank staff’s indicator-based models of near-term unemployment use mixed-data sampling (MIDAS) techniques (Daniell and Moreira ). Latest data are to Q3 and the diamonds show the model implied values for Q4 and Q1. Uncertainty persists surrounding the degree of restrictiveness in the economy Estimates of change in R* Potential drivers of the change in R* between and F25 Change from Approach​ to F25 MPR​ Financial market >90bps​ measures Survey measures <25bps-150bps​ Macroeconomic models 25bps-75bps​ Sources: Financial market measures are based on dynamic term-structure models. - year forward expected rates are extracted from nominal bond yields before subtracting survey inflation expectations. The survey measures are based on responses to the Bank of England’s MaPS survey and professional forecasts according to Consensus Sources: LHS: Bank of England February Monetary Policy Report. Economics. The macroeconomic models covered in the range are Davis et al and Del Negro et al . Estimates shown are not exact. More detail can be found in the February Monetary Policy Report. Household saving ratio and consumption suggest monetary policy is still restrictive Household saving ratio Household consumption",Monetary policy outlook - slides by Megan Greene,2025-05-12,"[('cpi inflation', 0.6752), ('growth unemployment', 0.6305), ('bump inflation', 0.5537), ('gdp', 0.5438), ('households growth', 0.5163), ('quarterly q1', 0.4731), ('survey indicators', 0.4718), ('bank calculations', 0.4341), ('bank ipsos', 0.4047), ('lfs employment', 0.3965)]",cpi inflation,0.6752,growth unemployment,0.6305,bump inflation,0.5537,gdp,0.5438,households growth,0.5163,quarterly q1,0.4731,survey indicators,0.4718,bank calculations,0.4341,bank ipsos,0.4047,lfs employment,0.3965,Megan Greene,title,2025-05-12,2025,external,external,2023-07-01,1.83,1,,,,,,,External member,22,url_bfedfe973a35dc380bffa8dfc03ce472ef4d159da1317bfb2c96c51fc67c0a38,Monetary policy outlook - slides by Megan Greene,1613,uncertainty_forecasting,Uncertainty & forecasting,"[""Uncertainty & forecasting"", ""Inflation & prices"", ""Growth & output""]",14.879,3.72,0.0,13.639,12.399,0.62,0.62,0.0,0.0,19.219,inflation_and_prices,labour_market; conventional_monetary_policy; growth_output,0.94,"Inflation persistence remains in focus, with services inflation and pay growth central to the outlook; a near-term bump in inflation is expected to fall back though expectations remain elevated. The speech also assesses weak activity, labour-market conditions and whether monetary policy remains restrictive.","The speech is primarily focused on the inflation outlook and the persistence of domestic price pressures, particularly services inflation, wages and inflation expectations. Labour-market developments are material because pay growth, vacancies, unemployment and firms' employment responses are used to assess inflation persistence. Conventional monetary policy is also central through the discussion of the degree of policy restrictiveness, changes in R* and evidence from household saving and consumption. Growth and output are a further material theme because the speech examines weak GDP growth, productivity and whether activity weakness reflects demand or supply.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2025/may/catherine-l-mann-panellist-at-the-boe-bank-watchers-conference,"The neutral rate of interest – and its relevance for monetary policy Bank of England Watchers’ Conference May Dr. Catherine L. Mann External member of the Monetary Policy Committee What is the neutral rate of interest? What is the neutral rate of interest? • Definition: Varies across institutions, papers and studies • My preferred definition: the interest rate that neither stimulates nor depresses inflation • But, the time horizon of ‘neither stimulate nor depress’ is key, as time horizon incorporates the presence and dynamics of shocks, transmission, lags, and spillovers • Synonyms? Neutral, natural, terminal, equilibrium rate… R-star, r-star… • In practice these are not all synonymous, they are different concepts, and differ by interlocutor • For my decision-making, the ‘neutral rate’ is the short-term rate at which the economy is neither stimulated nor contracted within the monetary policy horizon, and inflation is sustainably at target • Measurement challenges: • Few of the elements underpinning the neutral rate are observable Bringing the concepts together… Illustrative example of the interaction between notions of nominal neutral and the nominal policy rate Policy rate Restrictive policy Short-term neutral Long-term neutral Accomodative policy … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … R… Sources: Bank calculations. Notes: Because the illustration asserts that (policy rate – short-term neutral) = degree of restrictiveness or accommodation, it follows that short-term and long-term neutral in this illustration is in nominal terms. Restrictiveness at time t: Determined by the term structure of expected interest rates, including the transmission through financial markets relative to the neutral rate, and the policy rate Illustrative example of the term structure of neutral and the policy rate Policy rate Restrictiveness Short-term neutral Long-term neutral … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … R… time t Sources: Bank calculations. Notes: Because the illustration asserts that (policy rate – short-term neutral) = degree of restrictiveness or accommodation, it follows that short-term and long-term neutral in this illustration is in nominal terms. The term structure of the neutral rate: short-run versus long-run • The distinction between short and long-run neutral rate has been previously made in the literature (Platzer et al., ; Obstfeld, ) and in policy-making (Seim, ; Baker et al., ) • Short-run neutral can be moved around by economic shocks, changes in first stage financial market transmission, volatility, and spillovers of varying sources (e.g. risk, fiscal, demand shocks) • Long-run neutral is determined by the equilibrium level of savings and investment in the economy. It is the risk-less return that equates the demand and supply for savings. It is linked to slow-moving structural changes in the economy, such as demographics and productivity growth • For me, short-run neutral has greater monetary policy relevance. Long-run neutral is far off-stage, but it is helpful to the extent that this is the trend around which short-run fluctuates Assessing the degree of restrictiveness ) interest rate gaps Monetary policy strategy: measuring restrictiveness Let restrictiveness be defined as: real interest rate – neutral rate = 𝑟 − 𝑟∗ Monetary policy strategy: measuring restrictiveness Let restrictiveness be defined as: real interest rate – neutral rate = 𝑟 − 𝑟∗ where 𝑟 =𝑖 −𝐸 𝜋 and ∗ 𝑟 = 𝑖∗ − 𝐸 𝜋∗ 𝑖 = nominal interest rate set by the MPC (i.e. Bank Rate), 𝐸 𝜋 is expected inflation, 𝑖 ∗ = nominal neutral interest rate and 𝐸 𝜋 ∗ is expected long-run inflation (% is the BoE inflation target). Monetary policy strategy: measuring restrictiveness Let restrictiveness be defined as: real interest rate – neutral rate = 𝑟 − 𝑟∗ where 𝑟 =𝑖 −𝐸 𝜋 and ∗ 𝑟 = 𝑖∗ − 𝐸 𝜋∗ 𝑖 = nominal interest rate set by the MPC (i.e. Bank Rate), 𝐸 𝜋 is expected inflation, 𝑖 ∗ = nominal neutral interest rate and 𝐸 𝜋 ∗ is expected long-run inflation (% is the BoE inflation target). Putting and into : 𝑟 − 𝑟 ∗ = [𝑖 − 𝐸 𝜋 ] – [𝑖 ∗ − 𝐸 𝜋 ∗ ] Monetary policy strategy: measuring restrictiveness Let restrictiveness be defined as: real interest rate – neutral rate = 𝑟 − 𝑟∗ where 𝑟 =𝑖 −𝐸 𝜋 and ∗ 𝑟 = 𝑖∗ − 𝐸 𝜋∗ 𝑖 = nominal interest rate set by the MPC (i.e. Bank Rate), 𝐸 𝜋 is expected inflation, 𝑖 ∗ = nominal neutral interest rate and 𝐸 𝜋 ∗ is expected long-run inflation (% is the BoE inflation target). Putting and into : 𝑟 − 𝑟 ∗ = [𝑖 − 𝐸 𝜋 ] – [𝑖 ∗ − 𝐸 𝜋 ∗ ] Rearranging : 𝑟 − 𝑟 ∗ = [𝑖 − 𝑖 ∗ ] – [𝐸 𝜋 − 𝐸 𝜋 ∗ ] Monetary policy and measuring restrictiveness: what do we know? 𝑟 − 𝑟 ∗ = [𝑖 − 𝑖 ∗ ] – [𝐸 𝜋 − 𝐸 𝜋 ∗ ] • The elements of the real rate gap 𝑟 − 𝑟 ∗ are not observable • The policy rate 𝑖 is known (it’s my job), but 𝑖 ∗ has to be measured • The inflation target 𝐸 𝜋 ∗ is pre-determined, but inflation expectations 𝐸 𝜋 need to be measured (and managed) a) The nominal rate gap 𝑟 − 𝑟 ∗ = [𝑖 − 𝑖 ∗ ] – [𝐸 𝜋 − 𝐸 𝜋 ∗ ] Nominal rate gap • Some channels of the monetary transmission mechanism (mainly the cash flow channel, through mortgage rates for instance) are nominal in nature • Monetary policymakers affect monetary conditions, and therefore financial conditions, by changing 𝑖 and/or by affecting inflation expectations 𝐸 𝜋 while keeping long-term inflation expectations anchored at the inflation target 𝐸 𝜋 ∗ = % Measuring 𝒊 − 𝒊∗ : A majority of MaPS respondents expect policy to turn neutral within years MaPS-implied nominal rate gap Percent Percent Nominal rate Nominal rate gap Neutral rate Feb- Feb- Feb- Feb- Feb- - Feb- Feb- Feb- Feb- Feb- Sources: Market Participant Survey and Bank calculations. Notes: Diamonds show the MaPS median response of interest rate expectations -, - and -years ahead (aqua). The nominal rate gap (purple) is calculated at the nominal rate (aqua) minus the neutral rate (orange), in realised (solid lines) and expectations (diamonds) terms. Latest data: March survey. b) Inflation expectations ‘drift’ 𝑟 − 𝑟 ∗ = [𝑖 − 𝑖 ∗ ] – [𝐸 𝜋 − 𝐸 𝜋 ∗ ] Inflation expectations drift • Monetary policymakers affect monetary conditions, and therefore financial conditions, by changing 𝑖 and/or by affecting inflation expectations 𝐸 𝜋 while keeping long-term inflation expectations anchored at the inflation target 𝐸 𝜋 ∗ = % • Many factors that affect 𝐸 𝜋 are not directly under the control of the monetary policymaker, but to which it needs to respond (supply shocks, degree of forward- vs-backward-lookingness in expectation formation, frequency of price changes) Measuring 𝑬 𝝅 − 𝑬 𝝅∗ : Implied probabilities of expected CPI inflation outcomes Asset-price-implied probabilities of lower, around target and higher -months-ahead UK CPI outcomes Sources: Bloomberg Finance L.P., Consensus Economics, LSEG Datastream, Office for National Statistics, Tradeweb, ICE BofAML and Bank calculations. Notes: -month moving average of asset-price-implied probabilities of -months-ahead UK CPI inflation outcomes. Asset-price-implied probabilities are based on a monthly quantile regression of -months-ahead CPI inflation on asset prices from which probability density functions are obtained, adopting the methodology of Adams et al. and the New York Fed. Asset prices include UK -year OIS rate, UK -year govt. bond yield, FTSE All-Share, UK IG corporate bond spread, sterling ERI. c) The real rate gap 𝑟 − 𝑟 ∗ = [𝑖 − 𝑖 ∗ ] – [𝐸 𝜋 − 𝐸 𝜋 ∗ ] Real rate gap • Real rates are not directly observable • Monetary policymakers affect real rates indirectly through their effect on 𝑖 and 𝐸 𝜋 • So the real rate gap is endogenous to policy and shocks Measuring 𝒓 using survey-based 𝑬 𝝅 : Real interest rates differ across economic agents Measures of ex-ante real interest rates by economic agent Percent Financial markets' real rate expectations Ex-post real rate - Firms' real rate expectations - Households' real rate expectations - - - Sources: Bank of England, Bank of England/Ipsos, Bloomberg Finance L.P., Decision Maker Panel, Market Participants Survey, ONS, Tradeweb and Bank calculations. Notes: Ex-ante real interest rates are calculated as the , , and -year ahead OIS rate respectively, minus the (maturity-matched) survey-implied inflation expectation. Quarterly data. For households, the Bank of England/Ipsos Inflation Attitudes Survey is used, the Decision Maker Panel for firms’ and the Market Participants survey for financial markets. The ex-post real interest rate is calculated as Bank Rate minus realised headline CPI inflation. Assessing the degree of restrictiveness ) the role of volatility, uncertainty, risk premia The role of uncertainty, volatility, and risk premia 𝑟 − 𝑟 ∗ = [𝑖 − 𝑖 ∗ ] – [𝐸 𝜋 − 𝐸 𝜋 ∗ ] Uncertainty affects the Volatility affects the nominal rate gap real rate gap and the inflation expectations drift • Uncertainty reduces consumption and investment, lowering 𝑟 ∗ • Volatility in 𝜋 is positive and asymmetrically related to 𝜋 , raising 𝑖 ∗ • Higher risk premia in financial markets yield higher 𝑟 ∗ and 𝑖 ∗ Risk premia are significant, but often assumed away when looking at inflation expectations RPI-reform adjusted UK -year, -years ahead measure of inflation compensation Sources: Bloomberg Finance L.P. and Bank calculations. Notes: Latest data: 1st April . UK RPI adjusted 5y5y is derived by adjusting the five-year, five-year rate to account for UK RPI reform. From , UK RPI will be aligned with the CPIH measure of consumer prices. Volatility and spillovers affect UK financial conditions: US monetary policy factor remains elevated, but UK specific risk is present too. Stochastic volatility of asset price factors UK policy UK macro US policy US macro Global risk UK-specific risk",The neutral rate of interest – and its relevance for  monetary policy - slides by Catherine L Mann,2025-05-12,"[('rate monetary', 0.7476), ('inflation target', 0.6408), ('monetary conditions', 0.6378), ('term inflation', 0.6279), ('inflation expectations', 0.5937), ('spillovers monetary', 0.5391), ('real rate', 0.5056), ('cpi', 0.5046), ('rate neutral', 0.4671), ('conditions financial', 0.4283)]",rate monetary,0.7476,inflation target,0.6408,monetary conditions,0.6378,term inflation,0.6279,inflation expectations,0.5937,spillovers monetary,0.5391,real rate,0.5056,cpi,0.5046,rate neutral,0.4671,conditions financial,0.4283,Catherine L. Mann,title,2025-05-12,2025,external,external,2021-09-01,3.67,3,,,,,,,External member,44,url_95bbc52eeae4c3ba2584539571d8d968993daef6e5a006426861fede31bc0120,The neutral rate of interest – and its relevance for  monetary policy - slides by Catherine L Mann,1497,inflation_and_prices,Inflation & prices,"[""Inflation & prices"", ""Conventional monetary policy"", ""Uncertainty & forecasting""]",32.732,18.704,0.0,2.004,0.668,4.008,0.0,0.0,0.0,10.688,conventional_monetary_policy,inflation_and_prices; financial_conditions; uncertainty_forecasting,0.97,"The speech defines the neutral rate as the short-term rate at which the economy is neither stimulated nor contracted within the monetary policy horizon and inflation is sustainably at target, and assesses restrictiveness as the real interest rate minus the neutral rate.","The central subject is the neutral or equilibrium interest rate and its use in judging the stance and restrictiveness of Bank Rate, which falls directly under conventional monetary policy. Inflation and prices are material because inflation expectations, the inflation target and expectations drift are integral to measuring real-rate restrictiveness. Financial conditions are also central to the discussion of monetary transmission, risk premia, asset prices and spillovers. Uncertainty and forecasting are material because the speech stresses that neutral rates and real rates are unobservable, measurement is difficult, and uncertainty and volatility affect estimates of restrictiveness. There is no sufficiently material discussion of forward guidance or other non-rate policy tools to warrant unconventional monetary policy.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2025/may/swati-dhingra-speech-at-the-new-economics-foundation-conference,"EU macroeconomic policy in an age of shocks: a view from the UK New Economics Foundation May Swati Dhingra External Member of the Monetary Policy Committee Shocks and adjustment after pandemic/war differed across regions OFFICIAL-GREEN Purchasing power of UK GDP fell by % in , even though energy and imports were a quarter of the consumption basket Percentage points % Energy % Domestic Imports - - - - - % Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Notes: Percentage point difference in -quarter growth rates of UK Gross Notes: Share of energy and imports (excluding energy) in the UK Domestic Income and GDP, Q1 to Q3 .",EU macroeconomic policy in an age of shocks: a view from the UK - slides by Swati Dhingra,2025-05-15,"[('gdp fell', 0.6918), ('eu macroeconomic', 0.6595), ('uk gdp', 0.6484), ('gdp', 0.6205), ('macroeconomic', 0.599), ('macroeconomic policy', 0.5684), ('purchasing power', 0.5356), ('new economics', 0.5068), ('economics', 0.4826), ('power uk', 0.4749)]",gdp fell,0.6918,eu macroeconomic,0.6595,uk gdp,0.6484,gdp,0.6205,macroeconomic,0.599,macroeconomic policy,0.5684,purchasing power,0.5356,new economics,0.5068,economics,0.4826,power uk,0.4749,Swati Dhingra,title,2025-05-15,2025,external,external,2022-08-01,2.75,2,,,,,,,External member,33,url_7fb8a4d29aa0dcc3bbe1cdd25855a96b36edfa2fe185d7809a28348f55240aae,EU macroeconomic policy in an age of shocks: a view from the UK - slides by Swati Dhingra,102,growth_output,Growth & output,"[""Growth & output"", ""Global economy & trade"", ""Conventional monetary policy""]",0.0,1.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,global_economy_trade,growth_output; inflation_and_prices,0.86,"The speech focuses on how adjustment after the pandemic and war differed across regions, highlighting the UK's loss of purchasing power from energy and import shocks.","The central subject is the macroeconomic impact and cross-regional adjustment to major external shocks, making global economy and trade the strongest fit. The discussion of the fall in UK real purchasing power and GDP makes growth and output material, while the emphasis on energy and import costs also gives inflation and prices a significant secondary role.",User-reviewed slide-only item.
+https://www.bankofengland.co.uk/speech/2011/not-that-70s-show-speech-by-adam-posen-presentation,"Not That ‘70’s Show:Not That  70 s Show:
+Why Stagflation is UnlikelyWhy Stagflation is Unlikely
+Adam S. Posen
+University of Aberdeen Business School
+27 June 2011
+27/06/2011 A.  Posen, Not the 1970s 1
+
+DISCLAIMERDISCLAIMER
+The views expressed here and any errors are
+solely my own, and not those of either they y
+or
+227/06/2011 A.  Posen, Not the 1970s
+
+Not That ‘70’s Show
+Wh St fl ti i U lik l
+Why Stagflation is Unlikely
+1 What kind of world are we in today?
+1. What kind of world are we in today?
+2. Monetary  policy that anchors inflation
+expectations
+3. Labor markets  with limited bargaining power gg p
+for workers over wages
+4 Oil i td t bi l lt i4. Oil price trends not obviously accelerating
+upwards (yet?)
+5. Productivity  trend largely undiminished (yet!)
+6 Avoiding historical mistakes (so far)6. Avoiding historical mistakes (so far)
+27/06/2011 A.  Posen, Not the 1970s 3
+
+What sort of world are we in?
+What sort of world are we in?
+• For foreign policy , the question facing an intervention
+decision is whether this is Munich (deter) or Vietnam
+(accommodate)?(accommodate)?
+• For monetary policy, the question is similar but reversed: is
+this the 1930s (accommodate) or 1970s (deter)?this the 1930s (accommodate) or 1970s (deter)?
+• The underlying dynamic today is parallel to the 1930s, but we
+have avoided repeating that for several reasons:pg
+– Structural changes (automatic stabilizers, flexible x/r, deposit
+insurance)
+– A smaller share of the world in synchronized contraction
+– Aggressive coordinated macroeconomic stimulus 2008‐2010
+• Is there a risk to go from such a state to one of overheating• Is there a risk to go from such a state to one of overheating
+and inflation  ‐ or inflation and contraction (aka stagflation)?27/06/2011 A.  Posen, Not the 1970s 4
+
+What sort of world are we in?
+What sort of world are we in?
+• Let’s assess what it took for stagflation to occur in the 1970s
+Let s assess what it took for stagflation to occur in the 1970s
+• This is a serious question, not a straw man
+– Stagflation is unusual historically, especially following a recessiong y, py g
+– The historical and theoretical imagery of ‘pre‐emptive monetary
+policy’ stems completely from the 1970s experience
+• What would be involved in repeating the wage‐price spirals?
+– Unanchored inflation expectations
+Transmission of expectations into real wage resistance– Transmission of expectations into real wage resistance
+– Economically significant energy supply shock(s)
+– An unrecognized decline in trend productivity growthg py g
+• Only the third of these (oil) seems to possibly be at work
+– Bruno and Sachs (1985), Blanchard and Gali (2007) show that all of
+them have to interact to (re)produce the 1970s
+27/06/2011 A.  Posen, Not the 1970s 5
+
+Monetary policy that
+anchors inflation expectations
+( )
+• The theoretical literature on central banking (and some press)
+treats monetary policymaking as under constant suspicion
+• The empirical evidence has not supported this view (Blinder• The empirical evidence has not supported this view (Blinder,
+McCallum, Posen on CBI; Kuttner and Posen on CB governors)
+• Right now in global markets, there is understanding of explanationsg g g p
+– Recent Inflation Report and my February speech on financial expectations
+• Several factors contribute to this real‐world anchoring:
+– Central bank independence from fiscal authorities
+– Better knowledge of how some (not all) of the economy works
+– Inflation targeting and transparent disclosure by central banksgg p y
+• A reasonable discourse and accountability, not a ‘trigger‐strategy’
+game of needing to pre‐empt (fighting the last war?)
+27/06/2011 A.  Posen, Not the 1970s 6
+
+UK consumer prices –t h e long view
+Percentage change on a year earlier
+20
+24
+28
+Th li h bl hdd
+12
+16
+20The light blue shaded
+areas highlight periods
+identified as preceding
+sharply accelerating
+consumer prices
+4
+8
+12
+S Offi f Nt i l St ti ti i 1989 d OECD bf 1989
+0
+1966 1970 1974 1978 1982 1986 1990 1994 1998 2002 2006 2010
+Sources:  Office for National Statistics since 1989 and OECD before 1989.
+7… 27/06/2011 A.  Posen, Not the 1970s
+
+UK consumer prices –c o m p a r e to previous run‐ups
+Pt hl i
+16
+18
+20
+1969-72
+1976-79
+Percentage change on a year earlier
+8
+10
+12
+141986-89
+2008-11
+2
+4
+6
+Nt t dt th tt f th h lt i f i til 1989
+0
+t-42 t-36 t-30 t-24 t-18 t-12 t-6 t
+Months
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+Sources:  Office for National Statistics since 1989 and OECD before 1989 and Bank calculations.
+8… 27/06/2011 A.  Posen, Not the 1970s
+
+UK real GDP growth –a n output gap this time
+Percentage change on a year earlier
+10
+12
+14
+1969-72 1976-79
+1986 89 2008 11
+Percentage change on a year earlier
+2
+4
+6
+81986-89 2008-11
+-4
+-2
+0
+2
+Nt t dt th tt f th h lt i f i til 1989
+-6
+t-14 t-12 t-10 t-8 t-6 t-4 t-2 t
+Quarters
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+Sources:  Office for National Statistics and Bank calculations.
+9… 27/06/2011 A.  Posen, Not the 1970s
+
+UK unemployment rate – Rising this time
+1Per cent
+10
+12
+14
+1969-72 1976-79
+1986-89 2008-11
+Per cent
+6
+8
+2
+4
+0
+t-40 t-34 t-28 t-22 t-16 t-10 t-4
+Months
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+Source: Office for National Statistics and Bank calculations.
+10… 27/06/2011 A.  Posen, Not the 1970s
+
+UK narrow money – compare to previous run‐ups
+Pth li
+16
+18
+20
+1969-72 1976-79
+1986-89 2008-11
+Percentage change on a year earlier
+8
+10
+12
+14
+2
+4
+6
+8
+0
+t-14 t-12 t-10 t-8 t-6 t-4 t-2 t
+Quarters
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+Source: Bank of England, including Bank calculations.
+11… 27/06/2011 A.  Posen, Not the 1970s
+
+UK broad money – No credit expansion this time
+Percentage change on a year earlier
+20
+24
+gg y
+12
+16
+4
+81969-72 1976-79
+1986-89 2008-11
+0
+4
+t-14 t-12 t-10 t-8 t-6 t-4 t-2 t
+Quarters
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+M4 prior to 1998 Q4; M4 excluding intermediate OFCs after 1998 Q4.
+Quarters
+12…
+Source: Bank of England.
+27/06/2011 A.  Posen, Not the 1970s
+
+UK CPI inflation and GDP growth –
+i f hi th h ti
+a comparison of anchoring through time
+30Annual CPI inflation
+20
+25
+15
+20
+1974Q1-75Q4
+1980Q2 81Q3
+5
+10 1980Q2-81Q3
+1990Q4-92Q2
+2008Q3-10Q1 No
+upward
+0
+-6 -5 -4 -3 -2 -1 0 1 2 3
+Annual real GDP growth
+upward
+drift
+Source: Office for National Statistics, except for consumer price data before 1989, which are from the OECD.
+Bank of England calculations.
+13… 27/06/2011 A.  Posen, Not the 1970s
+
+UK ten‐year nominal gilt yield –
+f if lt i ik i
+proxy measure for inflation risk premia
+P t
+16
+20
+1969-72 1976-79
+1986-89 2008-11
+Per cent
+12
+4
+8
+Low
+and
+0
+t-14 t-12 t-10 t-8 t-6 t-4 t-2 t
+Quarters
+and
+stable
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+lb d k f ld ll
+14…
+Source: Bloomberg and Bank of England calculations.
+27/06/2011 A.  Posen, Not the 1970s
+
+UK‐German long‐term government bond yield spread
+1969-72 Percentage points
+6
+81976-79
+1986-89
+2008-11
+Percentage points
+2
+4
+0
+2
+Low
+and
+-2
+t-14 t-12 t-10 t-8 t-6 t-4 t-2 t
+Quarters
+and
+stable
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+The spread is calculated as the difference between UK ten‐year gilt yields and average yields on German
+government bonds with a maturity greater than three years.
+15…
+Source: Bloomberg, IMF International Financial Statistics and Bank of England calculations.
+27/06/2011 A.  Posen, Not the 1970s
+
+Labor markets with limited
+bargaining power for workers over wages
+( )
+Everyone in the UK should remember (or know) about the 1970s, the
+Winter of Discontent, Britain Against Itself (Beer (1982))…
+– That was in part the result of 30 years of rising union powerThat was in part the result of 30 years of rising union power
+• But that was then, this is now
+• Today, we are seeing the result of 30 years of declining union power
+Labour market structures have changed in the UK and globally
+– Liberalization and other policies from Thatcher and Blair
+– Pressures from globalization of production and global labour force
+– Changes in the technology and specialization of workg gy p
+I am NOT saying one state is better or worse normatively
+I am saying that as a policymaker, one has to recognize reality
+27/06/2011 A.  Posen, Not the 1970s 16
+
+Union density in Great Britain –a  different world
+60Trade union membership as a percentage of all employees
+50
+30
+40
+10
+20
+private sector
+public sector
+Mostly
+public
+0
+10
+1970 1974 1978 1982 1986 1990 1994 1998 2002 2006 2010
+public sector public
+sector
+Note: Data since 1989 are from Table 1.2 of Trade Union Membership 2010 and data before 1989 are
+interpolated using annual data from Table 2 of “The Recent Performance of the UK Labour Market” by
+Nickell and Quintini, Bank of England, August 2001.
+Source: Department for Business Innovation and Skills and Bank of England calculations
+17…
+Source: Department for Business Innovation and Skills and Bank of England calculations.
+27/06/2011 A.  Posen, Not the 1970s
+
+UK real consumption wage –
+No run up this time
+No run‐up this time
+1969 72 Percentage change on a year earlier
+6
+8
+101969-72
+1976-79
+1986-89
+2008-11
+Percentage change on a year earlier
+0
+2
+4
+6
+-4
+-2
+-8
+-6
+t-14 t-12 t-10 t-8 t-6 t-4 t-2 t
+Quarters
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+Source: http://www.bankofengland.co.uk/publications/quarterlybulletin/threecenturiesofdata.xls for the
+18…
+average earnings index before 2000; Office for National Statistics for whole‐economy AWE since 2000 and
+for the household consumption deflator. Bank of England calculations.
+27/06/2011 A.  Posen, Not the 1970s
+
+UK unit labour costs –n o run‐up this time
+Percentage change on a year earlier
+12
+14
+16
+1969-72 1976-79
+1986-89 2008-11
+Percentage change on a year earlier
+6
+8
+10
+1986 89 2008 11
+2
+4
+6
+0
+t-14 t-12 t-10 t-8 t-6 t-4 t-2 t
+Quarters
+Very low
+despite
+productivityNote: t denotes the start of the sharp acceleration of consumer prices until 1989.
+Source: Office for National Statistics and Bank of England calculations.
+productivity
+numbers
+19… 27/06/2011 A.  Posen, Not the 1970s
+
+UK real wage and unemployment trade‐off –
+did dl i lt ti
+wages did decline as unemployment rose over time
+8
+Real consumption wage, annual growth
+4
+6
+8
+-2
+0
+2
+1974-78
+-8
+-6
+-4 1980-84
+1990-93
+2008-10
+-10
+0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5
+Annual pp change in unemployment rate (lagged five quarters)
+Source: http://www.bankofengland.co.uk/publications/quarterlybulletin/threecenturiesofdata.xls for the
+average earnings index before 2000; Office for National Statistics for whole‐economy AWE since 2000 and the
+household consumption deflator. Office for National Statistics for the unemployment rate.
+Bank of England calculations.
+20… 27/06/2011 A.  Posen, Not the 1970s
+
+Oil price trends not obviously
+accelerating upwards (yet?)
+Oil matters for modern economies, but less than it did 30 years ago
+y g
+• Is there a major supply shock, or an exaggerated response to one
+given high demand?
+• What is the elasticity of demand by consumers and businesses?What is the elasticity of demand by consumers and businesses?
+• How fast would/could there be a supply response to demand?
+Di d i h i f h d i i ddDeciding the importance of the trend in energy prices depends
+on:
+• The size of the trend and the good’s importance in the basketg p
+• The size of the underlying trend versus the fluctuations around
+trend
+IF the trend is big enough and reversals short‐enough we will respondIF the trend is big enough and reversals short enough, we will respond
+to keep inflation in line with the target (Bean (2011))
+But, a majority of the MPC (and I agree) says not yet there
+27/06/2011 A.  Posen, Not the 1970s 21
+
+Oil price trends not obviously
+accelerating upwards (yet?)
+Could we (I) be making the wrong call on energy prices?  Yes.
+There is a plausible story to be told regarding both supply and demand
+th t ll i t ith i i i ithat we are all going to cope with ongoing price rises in energy
+• But we rely on futures markets for our oil price forecast, and
+those are only flat to slightly upwardthose are only flat to slightly upward
+• And no one seems to be stockpiling oil in the face of such
+pressurespressures
+• And the price reversals seem to be pretty big and sustained
+• So we are watching carefully and will change assumptions asSo we are watching carefully, and will change assumptions as
+warranted – but no change of assumption is warranted yet
+(especially if a global slowdown diminishes energy demand)
+27/06/2011 A.  Posen, Not the 1970s 22
+
+Productivity trend largely
+undiminished (yet!)
+Th th bi 1970 itk ti t k th t
+The other big 1970s mistake was trying to keep growth up at an
+unsustainable level – arguably because a productivity growth
+slowdown went unrecognized (Orphanides (1994) and others)
+When there is an economic downturn, how much is a shock to trend?
+Lt f tl k bt tt bt td bt h tt d i• Lots of talk about output gap, but trend both matters more and is
+more measurable (Kuttner and Posen (2001, 2004))
+An apparent puzzle in the UK right now:
+• The numbers on UK productivity of late are pretty bad looking
+• Firms are hiring workers and in surveys citing capacity constraints
+• Should this lead us to revise down our estimate of trend growth?
+27/06/2011 A.  Posen, Not the 1970s 23
+
+Productivity trend largely
+undiminished (yet!)
+NO hl d ti t tt UK td th ll hd
+NO, we should continue to treat UK trend growth as largely unchanged
+There are good reasons to doubt the observed productivity data:
+• Companies with low margins are hiring labour and increasing hoursCompanies with low margins are hiring labour and increasing hours
+–c o u n t e d data that we can believe in, and that cannot be easily
+reconciled with belief in declining labour productivity
+Th UK h h t d t bilit d li it d id• The UK economy has shown great adaptability and limited evidence
+of sectoral or labour market mismatch to date
+• Direct measures of the way that supply shocks are usually felt –y pp y y
+corporate liquidations, investment shortfall, long‐term
+unemployment –h a v e not yet accumulated to very much impact
+• There is no comparable international ‘technology shock’• There is no comparable international  technology shock
+• GDP data tends to get revised up after recessions (particularly in
+UK) and there is an obvious candidate in Net Export measures
+• If there remain overemployed sectors, then productivity will rise
+27/06/2011 A.  Posen, Not the 1970s 24
+
+UK labour productivity –
+even as measured rebounding not declining
+even as measured, rebounding not declining
+Percentage change on a year earlier
+4
+6
+Percentage change on a year earlier
+2
+-2
+0
+1969-72 1976-79
+-4
+1986-89 2008-11
+-6
+t-14 t-12 t-10 t-8 t-6 t-4 t-2 t
+Quarters
+25…
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+Source: Office for National Statistics and Bank of England calculations. 27/06/2011 A.  Posen, Not the 1970s
+
+UK corporate profit share
+Per cent
+26
+28
+Per cent
+Would
+support
+22
+24
+support
+investment
+if financial
+system
+18
+201969-72 1976-79
+1986-89 2008-11
+system
+allows
+16
+t-14 t-12 t-10 t-8 t-6 t-4 t-2 t
+Quarters
+Note: t denotes the start of the sharp acceleration of consumer prices until 1989.
+Source: Office for National Statistics and Bank of England calculations.
+Quarters
+26… 27/06/2011 A.  Posen, Not the 1970s
+
+Avoiding historical mistakes (so far)
+Avoiding historical mistakes (so far)
+Independent central banks have a tendency to err on the pre‐
+emptive deterrent side, not to be too soft
+BIS just said all central banks should raise rates, and pointed
+h ’ b flto the UK’s above target past inflation  ‐ NONSENSE
+Some central banks, particularly in EMs pegged to the US
+dl l hl d i t th i diti dddollar, should raise rates as their conditions demand
+In the UK and the west more broadly, there is little or no
+credit growth little wage growth beyond productivity littlecredit growth, little wage growth beyond productivity, little
+evidence of rising inflation expectations, and oil prices are
+not (yet) a one way bet(y ) y
+Every MPC meeting, I sit opposite the huge portrait of
+Montagu Norman, and ask myself “What Would Montagu
+Do?” and do the opposite.  So should other central bankers.
+27/06/2011 A.  Posen, Not the 1970s 27
+
+Not That ‘70’s Show:
+Why Stagflation is Unlikely
+We are in an economic situation in the UK today where:
+• Monetary policy anchors inflation expectations• Monetary policy anchors inflation expectations
+• Workers have limited bargaining power over wagesWorkers have limited bargaining power over wages
+• Oil prices are not obviously accelerating one way
+• Trend productivity growth is largely undiminished
+Therefore little risk of inflation let alone stagflation
+• But we still risk echoing that 30’s show writ small
+27/06/2011 A.  Posen, Not the 1970s 28",Not That '70's Show: Why Stagflation is Unlikely - presentation by Adam Posen,2011-06-27,,,,,,,,,,,,,,,,,,,,,,Adam Posen,title,2011-06-27,2011,external,external,2009-09-01,1.75,1,,C:\Users\344816\repos\speech-analysis-project\outputs\url_import_full\raw\cf12b2176aed888d722be1ee98f6cf2c500e931a09928576a979ded38fd6497d.html,C:\Users\344816\repos\speech-analysis-project\outputs\url_import_full\raw\cf12b2176aed888d722be1ee98f6cf2c500e931a09928576a979ded38fd6497d.pdf,https://www.bankofengland.co.uk/-/media/boe/files/speech/2011/not-that-70s-show-speech-by-adam-posen-presentation.pdf,pdf,,External member,21,url_cf12b2176aed888d722be1ee98f6cf2c500e931a09928576a979ded38fd6497d,Not That '70's Show: Why Stagflation is Unlikely - presentation by Adam Posen,3119,inflation_and_prices,Inflation & prices,"[""Inflation & prices"", ""Labour market"", ""Growth & output""]",16.672,1.924,0.0,7.374,9.618,0.0,0.641,0.0,0.0,5.45,inflation_and_prices,labour_market; growth_output; conventional_monetary_policy,0.97,"The speech argues that monetary policy anchors inflation expectations, workers have limited bargaining power over wages, oil prices are not obviously accelerating, and trend productivity growth is largely undiminished; therefore there is little risk of inflation, let alone stagflation.","The central argument is that the UK is unlikely to repeat 1970s-style stagflation, making inflation dynamics and the conditions required for a wage-price spiral the dominant theme. Labour-market developments are material because weaker worker bargaining power and subdued wage growth are presented as key reasons inflation will not become self-sustaining. Growth and output are also central through the discussion of the output gap, productivity, trend growth and the risk of contraction. Conventional monetary policy is material because the speech explicitly debates whether central banks should raise policy rates, rejects a pre-emptive UK rate increase, and discusses responding through policy if energy-price trends threaten the inflation target.",User-reviewed slide-only item.

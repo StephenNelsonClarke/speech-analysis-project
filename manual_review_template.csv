@@ -1,0 +1,2 @@
+speech_id,speaker,year,speech_title,keyword_primary_theme,keyword_top_themes,llm_primary_theme,llm_secondary_themes,llm_confidence,review_decision,review_notes
+example_001,Example Speaker,2025,Example speech,Inflation & prices,"Inflation & prices; Monetary policy & rates",inflation_and_prices,"monetary_policy_rates; uncertainty_forecasting",0.82,accept,"Review the speech to decide whether the LLM and rule-based classification are aligned."
